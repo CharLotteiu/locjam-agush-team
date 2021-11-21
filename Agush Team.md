@@ -44,13 +44,17 @@ Reported online on or around 11 December
 ## 协作工具
 - 公邮：locjam.zh@gmail.com (locjam.zh1120)
 - 翻译工具：Ren'py 软件内翻译工具
-- Github:
+- GitHub: https://github.com/CharLotteiu/locjam-agush-team
 - Google drive: https://drive.google.com/file/d/1t7uDlLUSuyIP8yNKIguEOZo8AhLmUCC6/view?usp=sharing
 
 ## 启动会议（11.21）
-- 协作方式: Github
+- 协作方式: GitHub
 - 时间节点:
+	- 中期会议 11.23 中午 12：30
 - 小组分工:
+	- Lars: Ling and Su
+	- Michael: ezhen
+	- Skylar: Audrey
 - 翻译风格
 - 具体问题
 	- 中文编码问题
@@ -61,6 +65,8 @@ Reported online on or around 11 December
 	- 开场标题，一个图片
 	- 换一个更适合的字体
 		- 猫啃网 https://www.maoken.com/
+
+## 中期会议（11.23 中午 12：30）
 
 ## 项目文件分析
 	- common.py old->new,内容原封不动，可以写个脚本
