@@ -4,35 +4,35 @@ translate Chinese strings:
 
     # game/screens.rpy:263
     old "Back"
-    new "返回"
+    new "Back返回"
 
     # game/screens.rpy:264
     old "History"
-    new "历史"
+    new "His历史"
 
     # game/screens.rpy:265
     old "Skip"
-    new "跳过"
+    new "Skip跳过"
 
     # game/screens.rpy:266
     old "Auto"
-    new ""
+    new "Auto自动"
 
     # game/screens.rpy:267
     old "Save"
-    new "保存"
+    new "Save保存"
 
     # game/screens.rpy:268
     old "Q.Save"
-    new ""
+    new "Q.Save快速保存"
 
     # game/screens.rpy:269
     old "Q.Load"
-    new ""
+    new "Q.Load快速加载"
 
     # game/screens.rpy:270
     old "Prefs"
-    new ""
+    new "Prefs"
 
     # game/screens.rpy:311
     old "Start"
@@ -48,79 +48,79 @@ translate Chinese strings:
 
     # game/screens.rpy:325
     old "End Replay"
-    new ""
+    new "EndReplay关闭展示"
 
     # game/screens.rpy:329
     old "Main Menu"
-    new "主菜单"
+    new "MainMenu主菜单"
 
     # game/screens.rpy:342
     old "Quit"
-    new "退出"
+    new "Quit退出"
 
     # game/screens.rpy:508
     old "Return"
-    new "返回"
+    new "Return返回"
 
     # game/screens.rpy:585
     old "About"
-    new "关于"
+    new "About关于"
 
     # game/screens.rpy:592
     old "Version [config.version!t]\n"
-    new ""
+    new "[config.version!t]版本\n"
 
     # game/screens.rpy:598
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:634
     old "Save Slots"
-    new ""
+    new "Save Slots"
 
     # game/screens.rpy:634
     old "Automatic saves"
-    new "自动保存"
+    new "Automatic saves自动保存"
 
     # game/screens.rpy:634
     old "Quick saves"
-    new "快速保存"
+    new "Quick saves快速保存"
 
     # game/screens.rpy:676
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:676
     old "empty slot"
-    new ""
+    new "empty slot"
 
     # game/screens.rpy:748
     old "Display"
-    new ""
+    new "Display展示"
 
     # game/screens.rpy:749
     old "Window"
-    new ""
+    new "Window窗口"
 
     # game/screens.rpy:750
     old "Fullscreen"
-    new "全屏限时"
+    new "Fulls全屏"
 
     # game/screens.rpy:754
     old "Rollback Side"
-    new ""
+    new "Rollback Side"
 
     # game/screens.rpy:755
     old "Disable"
-    new ""
+    new "Disable"
 
     # game/screens.rpy:756
     old "Left"
-    new ""
+    new "Left左"
 
     # game/screens.rpy:757
     old "Right"
-    new ""
+    new "Right右"
 
     # game/screens.rpy:762
     old "Unseen Text"
@@ -316,4 +316,4 @@ translate Chinese strings:
 
     # game/screens.rpy:1459
     old "Menu"
-    new ""
+    new "Menu菜单"
