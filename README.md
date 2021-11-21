@@ -74,7 +74,7 @@ Reported online on or around 11 December
 	- script.py 参考截止行数 2726
 
 ## 问题解决
-# 菜单界面的中文编码问题
+### 菜单界面的中文编码问题
 game/gui.rpy 文件中第 64 行代码所用字体 poetsenone.ttf 不支持中文，更改为  
 
 '''  
