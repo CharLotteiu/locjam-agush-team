@@ -77,10 +77,10 @@ Reported online on or around 11 December
 ### 菜单界面的中文编码问题
 game/gui.rpy 文件中第 64 行代码所用字体 poetsenone.ttf 不支持中文，更改为  
 
-'''  
-\## The font used for out-of-game text.  
+```python 
+## The font used for out-of-game text.  
 define gui.interface_text_font = "----.ttf"  
-'''
+```
 
 字体链接：https://www.maoken.com/freefonts/12727.html
 
