@@ -23,43 +23,43 @@ translate Chinese strings:
 translate Chinese start_c1feb60b:
 
     # "It's been a month."
-    ""
+    "已经过去一个月了..."
 
 # game/script.rpy:53
 translate Chinese start_2f981222:
 
     # "A single, exact month, since you broke up with me."
-    ""
+    "从她离开我到现在，正好一整月。"
 
 # game/script.rpy:53
 translate Chinese start_777f3fad:
 
     # "And from that day I haven’t managed to move on."
-    ""
+    "我一直还没能走出来"
 
 # game/script.rpy:53
 translate Chinese start_d1b6d376:
 
     # "Is this how people feel when they get left behind?"
-    ""
+    "大家被甩了之后都是这种感觉吗？"
 
 # game/script.rpy:53
 translate Chinese start_a45cd447:
 
     # "Is this how badly it hurts?"
-    ""
+    "分手原来这么痛吗？"
 
 # game/script.rpy:53
 translate Chinese start_bf974381:
 
     # "I never knew, it’s a first for me."
-    ""
+    "我无从知晓，这是我的第一次。"
 
 # game/script.rpy:53
 translate Chinese start_0fb4e7c5:
 
     # "That’s why tonight I decided to take a walk."
-    ""
+    "所以我今晚想出来走走。"
 
 # game/script.rpy:53
 translate Chinese start_65627f7a:
@@ -113,7 +113,7 @@ translate Chinese start_e719d9f6:
 translate Chinese start_8f2b548a:
 
     # "Should I give it a try?"
-    ""
+    "要不去试试？"
 
 # game/script.rpy:97
 translate Chinese date_2432e259:
@@ -125,25 +125,25 @@ translate Chinese date_2432e259:
 translate Chinese date_d4723f07:
 
     # "Good atmosphere."
-    ""
+    "氛围好"
 
 # game/script.rpy:97
 translate Chinese date_43c09597:
 
     # "Lots of people."
-    ""
+    "人也多"
 
 # game/script.rpy:97
 translate Chinese date_7b7d85fb:
 
     # "A bit noisy, but I don’t mind."
-    ""
+    "有一点吵，不过我倒是也不介意。"
 
 # game/script.rpy:97
 translate Chinese date_63a603ae:
 
     # "And everyone looks like they’re enjoying themselves!"
-    ""
+    "而且，每个人看起来都很享受的样子！"
 
 # game/script.rpy:97
 translate Chinese date_d64a0bc8:
@@ -155,13 +155,13 @@ translate Chinese date_d64a0bc8:
 translate Chinese date_bc82e891:
 
     # "As I wait at my assigned table, with no clue on what to do..."
-    ""
+    "我坐在被分配到的桌子这儿，不知道接下来该做什么..."
 
 # game/script.rpy:110
 translate Chinese date_c2629e1f:
 
     # "A young man approaches me."
-    ""
+    "一个小伙子朝我走来。"
 
 # game/script.rpy:117
 translate Chinese date_75392c38:
@@ -179,7 +179,7 @@ translate Chinese date_b84d8184:
 translate Chinese date_801d2c2e:
 
     # "I have no time to even consider an answer that he’s sitting already."
-    ""
+    "我还没来得及回答，他就在我对面坐下了。"
 
 # game/script.rpy:122
 translate Chinese date_2b664db8:
@@ -191,7 +191,7 @@ translate Chinese date_2b664db8:
 translate Chinese date_7bc028aa:
 
     # l "Yes, I’m alone."
-    l ""
+    l "对，我一个人。"
 
 # game/script.rpy:127
 translate Chinese date_9ea1ad2f:
@@ -233,13 +233,13 @@ translate Chinese date_1e3123ce:
 translate Chinese date_fab536c8:
 
     # "...then why are the tables numbered??"
-    ""
+    "那他们还给桌子编号干嘛？？"
 
 # game/script.rpy:143
 translate Chinese date_e899f249:
 
     # "I feel like this is going to give me a headache..."
-    ""
+    "感觉接下来会很令人头疼..."
 
 # game/script.rpy:143
 translate Chinese date_f9743a67:
