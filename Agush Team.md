@@ -17,20 +17,20 @@ Translations will be assessed by audience feedback: the texts submitted will be 
 Reported online on or around 11 December
 
 ## 项目交付
-**Delivery Time:** until **1pm**(14:00 CET), Saturday November 27
+**Delivery Time:** until **1pm**(14:00 CET), Saturday November 27  
 **Delivery Link:**
 - adding a folder with your team's name; only one folder per team https://drive.google.com/drive/folders/1907E26k7NysNaMjdSudPwcmvRgWfQT6V
 - send a .zip file with [WeTransfer](https://wetransfer.com/ "WeTransfer") at localisationdijon@gmail.com
 
 **[Agush]_[Chinese].zip file:**
-● the localized game project , which is the folder “Have I Seen You Somewhere Before” only
-● PowerPoint comment
-- things you liked
-- things you didn’t like
-- the particular challenges you faced
-- how you dealt with those challenges
-- why did you translate this or that, that way
-- etc.
+- the localized game project , which is the folder “Have I Seen You Somewhere Before” only
+- PowerPoint comment
+	- things you liked
+	- things you didn’t like
+	- the particular challenges you faced
+	- how you dealt with those challenges
+	- why did you translate this or that, that way
+	- etc.
 
 
 ## 联系方式
