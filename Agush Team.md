@@ -32,7 +32,6 @@ Reported online on or around 11 December
 	- why did you translate this or that, that way
 	- etc.
 
-
 ## 联系方式
 - Email：localisationdijon@gmail.com
 - Discord：https://discord.gg/M2SWnZH5tD
@@ -55,16 +54,17 @@ Reported online on or around 11 December
 	- Lars: Ling and Su
 	- Michael: ezhen
 	- Skylar: Audrey
-- 翻译风格
+- 翻译风格: 口语化，简单直白？
 - 具体问题
-	- 中文编码问题
+	- 菜单界面的中文编码问题
 	- xingjiang 是谁？
 	- GitHub 仓库建设，使用指南
 		- 教程网址 https://b23.tv/6kHWiZe
 	- 人名翻译风格问题：简单直接一些？
-	- 开场标题，一个图片
+	- 开场标题（一张图片）是否需要本地化
 	- 换一个更适合的字体
 		- 猫啃网 https://www.maoken.com/
+	- 主人公有灵感来源 [Mads Mikkelsen](https://en.wikipedia.org/wiki/Mads_Mikkelsen)
 
 ## 中期会议（11.23 中午 12：30）
 
@@ -72,4 +72,4 @@ Reported online on or around 11 December
 	- common.py old->new,内容原封不动，可以写个脚本
 	- options.py 标题，左上角可以直接显示，暂时不用考虑编码问题
 	- screens.py 菜单栏，编码问题
-	-
+	- script.py 参考截止行数 2726
