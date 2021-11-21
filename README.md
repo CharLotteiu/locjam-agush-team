@@ -74,4 +74,3 @@ Reported online on or around 11 December
 	- screens.py 菜单栏，编码问题
 	- script.py 参考截止行数 2726
 
-# Fork Test by Su
