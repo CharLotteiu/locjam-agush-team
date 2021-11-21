@@ -68,10 +68,10 @@ Reported online on or around 11 December
 ## 中期会议（11.23 中午 12：30）
 
 ## 项目文件分析
-	- common.py old->new,内容原封不动，可以写个脚本
-	- options.py 标题，左上角可以直接显示，暂时不用考虑编码问题
-	- screens.py 菜单栏，编码问题
-	- script.py 参考截止行数 2726
+- common.py old->new,内容原封不动，可以写个脚本
+- options.py 标题，左上角可以直接显示，暂时不用考虑编码问题
+- screens.py 菜单栏，编码问题
+- script.py 参考截止行数 2726
 
 ## 问题解决
 ### 菜单界面的中文编码问题
