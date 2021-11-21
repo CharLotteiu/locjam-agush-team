@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-17 19:53
+# TODO: Translation updated at 2021-11-17 19:53
 
 translate Chinese strings:
 
@@ -20,7 +20,7 @@ translate Chinese strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "已选择"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
