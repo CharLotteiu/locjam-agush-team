@@ -8,7 +8,7 @@ translate Chinese strings:
     new ""
 
     old "Skylar"
-    new ""
+    new "斯凯拉"
 
     old "Diane"
     new ""
