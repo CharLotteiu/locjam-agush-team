@@ -56,7 +56,6 @@ Reported online on or around 11 December
 	- Skylar: Audrey
 - 翻译风格: 口语化，简单直白？
 - 具体问题
-	- 菜单界面的中文编码问题
 	- xingjiang 是谁？
 	- GitHub 仓库建设，使用指南
 		- 教程网址 https://b23.tv/6kHWiZe
@@ -69,10 +68,21 @@ Reported online on or around 11 December
 ## 中期会议（11.23 中午 12：30）
 
 ## 项目文件分析
-	- common.py old->new,内容原封不动，可以写个脚本
-	- options.py 标题，左上角可以直接显示，暂时不用考虑编码问题
-	- screens.py 菜单栏，编码问题
-	- script.py 参考截止行数 2726
+- common.py old->new,内容原封不动，可以写个脚本
+- options.py 标题，左上角可以直接显示，暂时不用考虑编码问题
+- screens.py 菜单栏，编码问题
+- script.py 参考截止行数 2726
+
+## 问题解决
+### 菜单界面的中文编码问题
+game/gui.rpy 文件中第 64 行代码所用字体 poetsenone.ttf 不支持中文，更改为  
+
+```python 
+## The font used for out-of-game text.  
+define gui.interface_text_font = "----.ttf"  
+```
+
+字体链接：https://www.maoken.com/freefonts/12727.html
 
 ## 参考材料
 - RenPy中文论坛：https://www.renpy.cn/
