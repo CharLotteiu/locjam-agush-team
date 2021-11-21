@@ -59,6 +59,8 @@ Reported online on or around 11 December
 		- 教程网址 https://b23.tv/6kHWiZe
 	- 人名翻译风格问题：简单直接一些？
 	- 开场标题，一个图片
+	- 换一个更适合的字体
+		- 猫啃网 https://www.maoken.com/
 
 ## 项目文件分析
 	- common.py old->new,内容原封不动，可以写个脚本
