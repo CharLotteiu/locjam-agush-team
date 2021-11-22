@@ -1,90 +1,90 @@
-﻿# TODO: Translation updated at 2021-11-17 19:53
+# TODO: Translation updated at 2021-11-17 19:53
 
 translate Chinese strings:
 
     # game/screens.rpy:263
     old "Back"
-    new "Back"
+    new "返回？"
 
     # game/screens.rpy:264
     old "History"
-    new "History"
+    new "历史"
 
     # game/screens.rpy:265
     old "Skip"
-    new "Skip"
+    new "跳过文字"
 
     # game/screens.rpy:266
     old "Auto"
-    new "Auto"
+    new "自动"
 
     # game/screens.rpy:267
     old "Save"
-    new "Save"
+    new "存档"
 
     # game/screens.rpy:268
     old "Q.Save"
-    new "Q.Save"
+    new "快速存档"
 
     # game/screens.rpy:269
     old "Q.Load"
-    new "Q.Load"
+    new "快速读档"
 
     # game/screens.rpy:270
     old "Prefs"
-    new "Prefs"
+    new "Prefs设置"
 
     # game/screens.rpy:311
     old "Start"
-    new "Start"
+    new "开始游戏"
 
     # game/screens.rpy:319
     old "Load"
-    new "Load"
+    new "读取存档"
 
     # game/screens.rpy:321
     old "Preferences"
-    new "Preferences"
+    new "偏好设置"
 
     # game/screens.rpy:325
     old "End Replay"
-    new "End Replay"
+    new "End Replay结束播放？"
 
     # game/screens.rpy:329
     old "Main Menu"
-    new "Main Menu"
+    new "主菜单"
 
     # game/screens.rpy:342
     old "Quit"
-    new "Quit"
+    new "结束游戏"
 
     # game/screens.rpy:508
     old "Return"
-    new "Return"
+    new "返回"
 
     # game/screens.rpy:585
     old "About"
-    new "About"
+    new "About关于/更多信息"
 
     # game/screens.rpy:592
     old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
+    new "[config.version!t]版本\n"
 
     # game/screens.rpy:598
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new " {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n[renpy.license!t]"
 
     # game/screens.rpy:634
     old "Save Slots"
-    new "Save Slots"
+    new "存档"
 
     # game/screens.rpy:634
     old "Automatic saves"
-    new "Automatic saves"
+    new "自动存档"
 
     # game/screens.rpy:634
     old "Quick saves"
-    new "Quick saves"
+    new "快速存档"
 
     # game/screens.rpy:676
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -92,63 +92,63 @@ translate Chinese strings:
 
     # game/screens.rpy:676
     old "empty slot"
-    new "empty slot"
+    new "empty slot清空？"
 
     # game/screens.rpy:748
     old "Display"
-    new "Display"
+    new "显示模式"
 
     # game/screens.rpy:749
     old "Window"
-    new "Window"
+    new "窗口"
 
     # game/screens.rpy:750
     old "Fullscreen"
-    new "Fullscreen"
+    new "全屏"
 
     # game/screens.rpy:754
     old "Rollback Side"
-    new "Rollback Side"
+    new "回滚功能"
 
     # game/screens.rpy:755
     old "Disable"
-    new "Disable"
+    new "禁用"
 
     # game/screens.rpy:756
     old "Left"
-    new "Left"
+    new "左侧"
 
     # game/screens.rpy:757
     old "Right"
-    new "Right"
+    new "右侧"
 
     # game/screens.rpy:762
     old "Unseen Text"
-    new "Unseen Text"
+    new "未读文字"
 
     # game/screens.rpy:763
     old "After Choices"
-    new "After Choices"
+    new "已选择文字"
 
     # game/screens.rpy:764
     old "Transitions"
-    new "Transitions"
+    new "过渡文字"
 
     # game/screens.rpy:777
     old "Text Speed"
-    new "Text Speed"
+    new "文字显示速度"
 
     # game/screens.rpy:781
     old "Auto-Forward Time"
-    new "Auto-Forward Time"
+    new "自动播放时间"
 
     # game/screens.rpy:788
     old "Music Volume"
-    new "Music Volume"
+    new "背景音乐"
 
     # game/screens.rpy:795
     old "Sound Volume"
-    new "Sound Volume"
+    new "游戏音效"
 
     # game/screens.rpy:801
     old "Test"
@@ -156,15 +156,15 @@ translate Chinese strings:
 
     # game/screens.rpy:805
     old "Voice Volume"
-    new "Voice Volume"
+    new "人物语音"
 
     # game/screens.rpy:816
     old "Mute All"
-    new "Mute All"
+    new "全部静音"
 
     # game/screens.rpy:822
     old "Language"
-    new "Language"
+    new "语言"
 
     # game/screens.rpy:943
     old "The dialogue history is empty."
@@ -172,7 +172,7 @@ translate Chinese strings:
 
     # game/screens.rpy:1004
     old "Help"
-    new "Help"
+    new "帮助"
 
     # game/screens.rpy:1013
     old "Keyboard"
