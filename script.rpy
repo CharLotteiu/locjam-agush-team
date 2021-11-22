@@ -107,7 +107,7 @@ translate Chinese start_4938552f:
 translate Chinese start_e719d9f6:
 
     # "Some time ago I read a cheesy article with a list of questions\nto ask during dates, so..."
-    "我前不久刚读过一篇土味文章，里面总结了约会中必问的几个问题。那就..."
+    "我前不久刚读过一篇文章，很俗套，不过里面恰好总结了约会中必问的几个问题。那就..."
 
 # game/script.rpy:53
 translate Chinese start_8f2b548a:
