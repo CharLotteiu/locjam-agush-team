@@ -1805,7 +1805,7 @@ translate Chinese skylar_3073b6b8:
 translate Chinese skylar_1bd9d035:
 
     # l "T-thanks..."
-    l "谢...谢谢。"
+    l "谢...谢谢"
 
 # game/script.rpy:868
 translate Chinese skylar_861215c7:
@@ -2153,7 +2153,7 @@ translate Chinese skylar3_94e46f9d:
 translate Chinese skylar3_61762fb4:
 
     # l "Yeah… I hope the cashier will think so, too."
-    l "好吧……希望收银员也是这么想的。"
+    l "好吧...希望收银员也是这么想的。"
 
 # game/script.rpy:1019
 translate Chinese skylar3_d94ff3ea:
@@ -2201,7 +2201,7 @@ translate Chinese skylar3_c5b46a79:
 translate Chinese skylar3_d91c838c:
 
     # l "Well, there are a lot of writers, but..."
-    l "嗯，是有很多作家，但是……"
+    l "嗯，是有很多作家，但是......"
 
 # game/script.rpy:1037
 translate Chinese skylar3_dbb2cd92:
@@ -6131,7 +6131,7 @@ translate Chinese strings:
 
     # game/script.rpy:897
     old "Hm… if you could choose a superpower what would it be?"
-    new "嗯……如果可以选择一个超能力，你会选什么？"
+    new "嗯...如果可以选择一个超能力，你会选什么？"
 
     # game/script.rpy:991
     old "Mostly biographies… must seem boring, right?"
