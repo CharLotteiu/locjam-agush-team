@@ -6147,7 +6147,7 @@ translate Chinese strings:
 
     # game/script.rpy:1074
     old "Uhm, my books don't sell much, lately..."
-    new "呃，我的书卖的不好，最近..."
+    new "呃，我的书卖得不好，最近..."
 
     # game/script.rpy:1130
     old "Every sunday morning!"
