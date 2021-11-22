@@ -1,11 +1,11 @@
-﻿# TODO: Translation updated at 2021-11-17 19:53
+# TODO: Translation updated at 2021-11-17 19:53
 
 translate Chinese strings:
     old "Lars"
     new ""
 
     old "Michael"
-    new ""
+    new "迈克尔"
 
     old "Skylar"
     new ""
@@ -167,13 +167,13 @@ translate Chinese date_c2629e1f:
 translate Chinese date_75392c38:
 
     # m "Hi, can I sit here?"
-    m ""
+    m "嗨，我能坐这儿吗？"
 
 # game/script.rpy:117
 translate Chinese date_b84d8184:
 
     # m "Are you by yourself?"
-    m ""
+    m "你一个人吗？"
 
 # game/script.rpy:122
 translate Chinese date_801d2c2e:
@@ -203,31 +203,31 @@ translate Chinese date_9ea1ad2f:
 translate Chinese date_c68a32f9:
 
     # m "Actually, no."
-    m ""
+    m "其实呢，还真不用。"
 
 # game/script.rpy:132
 translate Chinese date_475fee8b:
 
     # m "This one is all up to the clients."
-    m ""
+    m "这儿全都随你自己。"
 
 # game/script.rpy:132
 translate Chinese date_15ef721c:
 
     # m "You can sit at whatever table you want and just talk."
-    m ""
+    m "想坐哪桌都可以，直接聊就是了。"
 
 # game/script.rpy:132
 translate Chinese date_adc87c25:
 
     # m "As long as both of you are comfortable, of course."
-    m ""
+    m "当然了，也得俩人都觉得舒服。"
 
 # game/script.rpy:132
 translate Chinese date_1e3123ce:
 
     # m "And if you're not, you just switch!"
-    m ""
+    m "要是你觉得不太行，换人就好。"
 
 # game/script.rpy:143
 translate Chinese date_fab536c8:
@@ -251,19 +251,19 @@ translate Chinese date_f9743a67:
 translate Chinese michael_a15809a7:
 
     # m "Hey, wait!"
-    m ""
+    m "欸，等等！"
 
 # game/script.rpy:153
 translate Chinese michael_77965395:
 
     # m "Have I seen you somewhere before?"
-    m ""
+    m "我们以前是不是见过？"
 
 # game/script.rpy:153
 translate Chinese michael_17f2b7df:
 
     # m "You kinda remind me of someone..."
-    m ""
+    m "你让我有点儿想起来那个谁......"
 
 # game/script.rpy:160
 translate Chinese michael_c00e8d74:
@@ -287,13 +287,13 @@ translate Chinese michael_d2d9f872:
 translate Chinese michael_7320ded0:
 
     # m "Oh, I'm sorry!"
-    m ""
+    m "哦，那对不起了！"
 
 # game/script.rpy:168
 translate Chinese michael_8f21ad47:
 
     # m "That must be annoying, huh?"
-    m ""
+    m "总被这么说，应该挺烦的吧？"
 
 # game/script.rpy:173
 translate Chinese michael_27a58008:
@@ -311,13 +311,13 @@ translate Chinese michael_ce8d2a2d:
 translate Chinese michael_4abe5329:
 
     # m "Michael, nice to meet you!"
-    m ""
+    m "我迈克尔，很高兴认识你啊！"
 
 # game/script.rpy:180
 translate Chinese michael_f0700869:
 
     # m "And what about you?"
-    m ""
+    m "你叫啥？"
 
 # game/script.rpy:185
 translate Chinese michael_52f55337:
@@ -329,13 +329,13 @@ translate Chinese michael_52f55337:
 translate Chinese michael_2b307c22:
 
     # m "That’s a name you don’t hear often!"
-    m ""
+    m "这名字可不常见！"
 
 # game/script.rpy:188
 translate Chinese michael_400f444a:
 
     # m "Where are you from?"
-    m ""
+    m "你是打哪儿来的？"
 
 # game/script.rpy:193
 translate Chinese michael_a4b34b37:
@@ -347,13 +347,13 @@ translate Chinese michael_a4b34b37:
 translate Chinese michael_95d6fa71:
 
     # m "For real?!"
-    m ""
+    m "真的？！"
 
 # game/script.rpy:194
 translate Chinese michael_e6baaf82:
 
     # m "That's so exotic! What brought you here of all places?"
-    m ""
+    m "你可真是老外中的老外！什么风儿把你吹来了？"
 
 # game/script.rpy:199
 translate Chinese michael_00a77f46:
@@ -371,19 +371,19 @@ translate Chinese michael_7c7ba67f:
 translate Chinese michael_06668fd7:
 
     # m "Oh, yes!"
-    m ""
+    m "当然！"
 
 # game/script.rpy:209
 translate Chinese michael_e482525c:
 
     # m "I often knit, in my free time."
-    m ""
+    m "我没事儿的时候喜欢织点东西。"
 
 # game/script.rpy:209
 translate Chinese michael_be13714d:
 
     # m "I really enjoy it a lot!"
-    m ""
+    m "那可真是一大享受！"
 
 # game/script.rpy:216
 translate Chinese michael_2725f1aa:
@@ -401,43 +401,43 @@ translate Chinese michael_dc681339:
 translate Chinese michael_2a9e8499:
 
     # m "It is!"
-    m ""
+    m "确实！"
 
 # game/script.rpy:221
 translate Chinese michael_f93667f8:
 
     # m "But you know, my parents taught me."
-    m ""
+    m "不过你也知道，我是跟我爸妈学的。"
 
 # game/script.rpy:221
 translate Chinese michael_b561f84d:
 
     # m "And I've been doing it ever since!"
-    m ""
+    m "从那时开始一直到现在没停过！"
 
 # game/script.rpy:221
 translate Chinese michael_c8837687:
 
     # m "But..."
-    m ""
+    m "但是......"
 
 # game/script.rpy:221
 translate Chinese michael_3040a066:
 
     # m "I must say, it's kind of an expensive hobby."
-    m ""
+    m "不得不说，坚持这个爱好的成本可不低啊。"
 
 # game/script.rpy:221
 translate Chinese michael_2af1fd3a:
 
     # m "I work with extremely rare materials, you know?"
-    m ""
+    m "要知道，我用的都是上好的材料。"
 
 # game/script.rpy:221
 translate Chinese michael_56742567:
 
     # m "Only the best in town!"
-    m ""
+    m "只要这儿最好的！"
 
 # game/script.rpy:236
 translate Chinese michael_58d3445d:
@@ -449,19 +449,19 @@ translate Chinese michael_58d3445d:
 translate Chinese michael_71bf5e3d:
 
     # m "I absolutely am!"
-    m ""
+    m "必须的！"
 
 # game/script.rpy:240
 translate Chinese michael_9f0cc202:
 
     # m "Maybe I'll show them to you..."
-    m ""
+    m "或许我应该给你看看我的作品......"
 
 # game/script.rpy:240
 translate Chinese michael_9d2bf73f:
 
     # m "Depends on how the night goes."
-    m ""
+    m "就看你今晚的表现了。"
 
 # game/script.rpy:247
 translate Chinese michael_2c377a29:
@@ -473,25 +473,25 @@ translate Chinese michael_2c377a29:
 translate Chinese michael_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "这个嘛......"
 
 # game/script.rpy:251
 translate Chinese michael_0d73db27:
 
     # m "I meet a lot of people."
-    m ""
+    m "我遇到很多人。"
 
 # game/script.rpy:251
 translate Chinese michael_94953299:
 
     # m "But I don't like to talk about work."
-    m ""
+    m "但是我不喜欢聊工作。"
 
 # game/script.rpy:251
 translate Chinese michael_871ce650:
 
     # m "Not during dates, at least."
-    m ""
+    m "至少不在约会的时候聊。"
 
 # game/script.rpy:260
 translate Chinese michael_f02e5861:
@@ -503,19 +503,19 @@ translate Chinese michael_f02e5861:
 translate Chinese michael_1dbbfbd1:
 
     # m "Yeah."
-    m ""
+    m "嗯。"
 
 # game/script.rpy:261
 translate Chinese michael_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:261
 translate Chinese michael_86f97423:
 
     # m "But I'm curious, what's yours?"
-    m ""
+    m "不过我很好奇，你是做什么的？"
 
 # game/script.rpy:268
 translate Chinese michael_b3d110df:
@@ -527,31 +527,31 @@ translate Chinese michael_b3d110df:
 translate Chinese michael_f0f6cd01:
 
     # m "Novels??"
-    m ""
+    m "小说？"
 
 # game/script.rpy:271
 translate Chinese michael_bdb3e427:
 
     # m "That's great!"
-    m ""
+    m "不错啊！"
 
 # game/script.rpy:271
 translate Chinese michael_fb66b0f5:
 
     # m "Really great!"
-    m ""
+    m "真不错！"
 
 # game/script.rpy:271
 translate Chinese michael_72ed8fef:
 
     # m "But I must admit I'm not so much into literature, sorry."
-    m ""
+    m "但是我得承认，我对文学没多大兴头，对不住啊。"
 
 # game/script.rpy:271
 translate Chinese michael_1c2958f7:
 
     # m "So, I guess I've never read anything yours."
-    m ""
+    m "所以我猜，我应该从来没看过你写的东西吧。"
 
 # game/script.rpy:282
 translate Chinese michael_ab6214a9:
@@ -569,67 +569,67 @@ translate Chinese michael_d4caf7e1:
 translate Chinese mic_noans1_632afaab:
 
     # m "So...you want to start the conversation, or...?"
-    m ""
+    m "那......你是准备先挑个话头呢，还是......?"
 
 # game/script.rpy:303
 translate Chinese michael2_d17f4eea:
 
     # m "I'd say my basement!"
-    m ""
+    m "我应该会说，是我家地下室吧！"
 
 # game/script.rpy:303
 translate Chinese michael2_f7805925:
 
     # m "It's where I knit, you know..."
-    m ""
+    m "那里是我织东西的地方，你知道吧......"
 
 # game/script.rpy:303
 translate Chinese michael2_3ab5f5e4:
 
     # m "It's such a cozy place!"
-    m ""
+    m "待着可舒服了！"
 
 # game/script.rpy:303
 translate Chinese michael2_e5ce6a3e:
 
     # m "The walls are covered with my works!"
-    m ""
+    m "整面墙上挂的都是我的作品！"
 
 # game/script.rpy:303
 translate Chinese michael2_08827374:
 
     # m "I'm so, so proud of them..."
-    m ""
+    m "我特别、特别为它们骄傲......"
 
 # game/script.rpy:303
 translate Chinese michael2_9cf3b97b:
 
     # m "I already want to show them to you!"
-    m ""
+    m "真想让你看看！"
 
 # game/script.rpy:303
 translate Chinese michael2_87091f5c:
 
     # m "But, unfortunately, I don't have any photos."
-    m ""
+    m "不过，很不巧的是，我没有任何照片。"
 
 # game/script.rpy:303
 translate Chinese michael2_703a84ce:
 
     # m "But if you want..."
-    m ""
+    m "但要是你愿意的话......"
 
 # game/script.rpy:303
 translate Chinese michael2_ab3b9001:
 
     # m "I could show them to you."
-    m ""
+    m "我可以带你去看。"
 
 # game/script.rpy:303
 translate Chinese michael2_d5a93292:
 
     # m "Irl?"
-    m ""
+    m "眼见为实？"
 
 # game/script.rpy:325
 translate Chinese michael2_78a8022e:
@@ -641,25 +641,25 @@ translate Chinese michael2_78a8022e:
 translate Chinese michael2_47ba7d94:
 
     # m "No."
-    m ""
+    m "不。"
 
 # game/script.rpy:330
 translate Chinese michael2_601603ab:
 
     # m "I don't like them."
-    m ""
+    m "我不喜欢。"
 
 # game/script.rpy:330
 translate Chinese michael2_bf14baec:
 
     # m "They leave hair everywhere..."
-    m ""
+    m "它们到处掉毛......"
 
 # game/script.rpy:330
 translate Chinese michael2_0044afee:
 
     # m "And it's difficult to knit with them jumping around all the time."
-    m ""
+    m "还一直跑来跑去的，弄得我很难织东西。"
 
 # game/script.rpy:339
 translate Chinese michael2_3c54f4dd:
@@ -689,109 +689,109 @@ translate Chinese michael2_f39a9527:
 translate Chinese mic_noans2_b9ff1ecd:
 
     # m "...So?"
-    m ""
+    m "......所以呢？"
 
 # game/script.rpy:351
 translate Chinese mic_noans2_712002a3:
 
     # m "Did someone turn you off?"
-    m ""
+    m "下头了？"
 
 # game/script.rpy:358
 translate Chinese mic_noans2_24cb5273:
 
     # m "Guess I'll talk with someone else, then."
-    m ""
+    m "我猜我还是去找别人聊吧。"
 
 # game/script.rpy:358
 translate Chinese mic_noans2_089680d7:
 
     # m "Just know you've escaped fate, tonight."
-    m ""
+    m "你可不知道你今晚错过了什么。"
 
 # game/script.rpy:358
 translate Chinese mic_noans2_643d6239:
 
     # m "Bye."
-    m ""
+    m "再见。"
 
 # game/script.rpy:369
 translate Chinese michael3_b12425fd:
 
     # m "Changing the subject..."
-    m ""
+    m "换个话题......"
 
 # game/script.rpy:369
 translate Chinese michael3_0f4477e7:
 
     # m "There's something I'm curious to ask."
-    m ""
+    m "有件事儿我特好奇。"
 
 # game/script.rpy:369
 translate Chinese michael3_257d68fd:
 
     # m "You know, family is important to me."
-    m ""
+    m "你知道的，原生家庭对我很重要。"
 
 # game/script.rpy:369
 translate Chinese michael3_6f189439:
 
     # m "I’ve always had a challenging relationship with both of my parents."
-    m ""
+    m "我跟我爸妈俩人的关系一直都有点棘手。"
 
 # game/script.rpy:369
 translate Chinese michael3_4ff2c645:
 
     # m "But you know..."
-    m ""
+    m "不过你也知道......"
 
 # game/script.rpy:369
 translate Chinese michael3_ce956612:
 
     # m "Family is family, right?"
-    m ""
+    m "血浓于水，对吧？"
 
 # game/script.rpy:369
 translate Chinese michael3_9c687e15:
 
     # m "That connection won’t ever be severed."
-    m ""
+    m "这种关系是怎么斩也斩不断的。"
 
 # game/script.rpy:369
 translate Chinese michael3_ba860038:
 
     # m "No matter what you do."
-    m ""
+    m "不管你做什么。"
 
 # game/script.rpy:369
 translate Chinese michael3_252f3573:
 
     # m "So..."
-    m ""
+    m "所以......"
 
 # game/script.rpy:369
 translate Chinese michael3_6e47f4a7:
 
     # m "What’s your family like?"
-    m ""
+    m "你家是啥情况？"
 
 # game/script.rpy:398
 translate Chinese michael3_e09ac9d6:
 
     # m "That's a pity..."
-    m ""
+    m "有些遗憾......"
 
 # game/script.rpy:398
 translate Chinese michael3_3e385561:
 
     # m "But difficult families often build stronger characters."
-    m ""
+    m "不过复杂的家庭环境常常能塑造出复杂的性格。"
 
 # game/script.rpy:398
 translate Chinese michael3_7b833da1:
 
     # m "So I’m sure it's not all bad."
-    m ""
+    m "我敢说那也不全都是坏事。"
 
 # game/script.rpy:405
 translate Chinese michael3_ecfedcfa:
@@ -809,13 +809,13 @@ translate Chinese michael3_85d5c65d:
 translate Chinese michael3_14193266:
 
     # m "No I don’t."
-    m ""
+    m "不，我就不想。"
 
 # game/script.rpy:410
 translate Chinese michael3_dacb7df6:
 
     # m "I hold my family very close to my heart!"
-    m ""
+    m "我就差把我的原生家庭放在心尖上。"
 
 # game/script.rpy:415
 translate Chinese michael3_574482dd:
@@ -833,7 +833,7 @@ translate Chinese michael3_6f4a40a4:
 translate Chinese michael3_63dd2cb0:
 
     # m "Oh they do. They care for me just as much as I care for them."
-    m ""
+    m "哦，是的。他们关心我，就跟我关心他们一样。"
 
 # game/script.rpy:422
 translate Chinese michael3_98c5a34d:
@@ -845,25 +845,25 @@ translate Chinese michael3_98c5a34d:
 translate Chinese michael3_5a367616:
 
     # m "An ordinary family..."
-    m ""
+    m "普通家庭......"
 
 # game/script.rpy:427
 translate Chinese michael3_f3018fde:
 
     # m "It's nice, but I imagine it could be..."
-    m ""
+    m "挺好的，不过在我想象中它可能有些......"
 
 # game/script.rpy:427
 translate Chinese michael3_c3450e65:
 
     # m "Boring?"
-    m ""
+    m "无聊？"
 
 # game/script.rpy:427
 translate Chinese michael3_4701a2dd:
 
     # m "Sometimes, at least."
-    m ""
+    m "至少有些时候会吧。"
 
 # game/script.rpy:436
 translate Chinese michael3_041461d6:
@@ -875,25 +875,25 @@ translate Chinese michael3_041461d6:
 translate Chinese michael3_8cb62253:
 
     # m "Yes."
-    m ""
+    m "对啊。"
 
 # game/script.rpy:439
 translate Chinese michael3_f2337d5d:
 
     # m "All is normal, ordinary."
-    m ""
+    m "啥事儿都正常而普通。"
 
 # game/script.rpy:439
 translate Chinese michael3_4892d621:
 
     # m "Everything just goes on as expected."
-    m ""
+    m "一点意外也没有。"
 
 # game/script.rpy:439
 translate Chinese michael3_c00bb644:
 
     # m "Isn't it boring?"
-    m ""
+    m "难道不无聊吗？"
 
 # game/script.rpy:448
 translate Chinese michael3_c93d2f71:
@@ -905,13 +905,13 @@ translate Chinese michael3_c93d2f71:
 translate Chinese michael3_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "好吧......"
 
 # game/script.rpy:449
 translate Chinese michael3_c6a0c8bc:
 
     # m "For me it is."
-    m ""
+    m "对我来说，挺无聊的。"
 
 # game/script.rpy:454
 translate Chinese michael3_348730eb:
@@ -923,7 +923,7 @@ translate Chinese michael3_348730eb:
 translate Chinese michael3_1dbbfbd1:
 
     # m "Yeah."
-    m ""
+    m "就是这样。"
 
 # game/script.rpy:456
 translate Chinese michael3_82822a0c:
@@ -935,43 +935,43 @@ translate Chinese michael3_82822a0c:
 translate Chinese mic_noans3_3bda6387:
 
     # m "Hey!"
-    m ""
+    m "喂！"
 
 # game/script.rpy:461
 translate Chinese mic_noans3_4cd84cd1:
 
     # m "Can you hear me?"
-    m ""
+    m "你听见我说话了吗？"
 
 # game/script.rpy:468
 translate Chinese mic_noans3_24cb5273:
 
     # m "Guess I'll talk with someone else, then."
-    m ""
+    m "我猜我还是去找别人聊吧。"
 
 # game/script.rpy:468
 translate Chinese mic_noans3_089680d7:
 
     # m "Just know you've escaped fate, tonight."
-    m ""
+    m "你可不知道你今晚错过了什么。"
 
 # game/script.rpy:468
 translate Chinese mic_noans3_643d6239:
 
     # m "Bye."
-    m ""
+    m "再见。"
 
 # game/script.rpy:479
 translate Chinese michael4_1cf9ee83:
 
     # m "Listen..."
-    m ""
+    m "听着......"
 
 # game/script.rpy:479
 translate Chinese michael4_0b8ded3e:
 
     # m "I have a request for you."
-    m ""
+    m "我有个请求。"
 
 # game/script.rpy:484
 translate Chinese michael4_89d7ec0f:
@@ -983,31 +983,31 @@ translate Chinese michael4_89d7ec0f:
 translate Chinese michael4_3245329f:
 
     # m "No, not at all!"
-    m ""
+    m "不用，完全不用！"
 
 # game/script.rpy:485
 translate Chinese michael4_8d299a57:
 
     # m "It's quite normal."
-    m ""
+    m "是很正常的请求。"
 
 # game/script.rpy:485
 translate Chinese michael4_6a3cc1e4:
 
     # m "I love hearing other people’s stories."
-    m ""
+    m "我爱听别人的故事。"
 
 # game/script.rpy:485
 translate Chinese michael4_f16ad205:
 
     # m "Do you have a good one to tell?"
-    m ""
+    m "你有没有好的说来听听？"
 
 # game/script.rpy:502
 translate Chinese michael4_1056b3b2:
 
     # m "Please, tell me more!"
-    m ""
+    m "来吧，展开讲讲！"
 
 # game/script.rpy:505
 translate Chinese michael4_f1230b1c:
@@ -1073,7 +1073,7 @@ translate Chinese michael4_d303bee1:
 translate Chinese michael4_f70d849e:
 
     # m "Woah..."
-    m ""
+    m "哇......"
 
 # game/script.rpy:527
 translate Chinese michael4_26501b51:
@@ -1085,7 +1085,7 @@ translate Chinese michael4_26501b51:
 translate Chinese michael4_a543ad45:
 
     # m "Amazing."
-    m ""
+    m "太神奇了。"
 
 # game/script.rpy:529
 translate Chinese michael4_bc5c265b:
@@ -1097,7 +1097,7 @@ translate Chinese michael4_bc5c265b:
 translate Chinese michael4_3a17aa18:
 
     # m "Totally unbelievable."
-    m ""
+    m "简直让人不敢相信。"
 
 # game/script.rpy:531
 translate Chinese michael4_a88732e1:
@@ -1109,7 +1109,7 @@ translate Chinese michael4_a88732e1:
 translate Chinese michael4_925d0a0e:
 
     # m "You're really something."
-    m ""
+    m "你可真是个人物。"
 
 # game/script.rpy:533
 translate Chinese michael4_82822a0c:
@@ -1121,19 +1121,19 @@ translate Chinese michael4_82822a0c:
 translate Chinese michael4_68a74032:
 
     # m "Uh..."
-    m ""
+    m "呃......"
 
 # game/script.rpy:538
 translate Chinese michael4_b0befa00:
 
     # m "That's… bad."
-    m ""
+    m "那可真......糟糕。"
 
 # game/script.rpy:538
 translate Chinese michael4_92fabb92:
 
     # m "Seriously."
-    m ""
+    m "不开玩笑。"
 
 # game/script.rpy:545
 translate Chinese michael4_6b342fbf:
@@ -1157,73 +1157,73 @@ translate Chinese michael4_1d1d89a8:
 translate Chinese michael4_ef52f8ce:
 
     # m "Tsk. Terrible."
-    m ""
+    m "啧。差劲。"
 
 # game/script.rpy:557
 translate Chinese mic_noans4_93f1b450:
 
     # m "You could at least talk to me..."
-    m ""
+    m "至少可以说点什么嘛......"
 
 # game/script.rpy:562
 translate Chinese mic_noans4_24cb5273:
 
     # m "Guess I'll talk with someone else, then."
-    m ""
+    m "我猜我还是去找别人聊吧。"
 
 # game/script.rpy:562
 translate Chinese mic_noans4_089680d7:
 
     # m "Just know you've escaped fate, tonight."
-    m ""
+    m "你可不知道你今晚错过了什么。"
 
 # game/script.rpy:562
 translate Chinese mic_noans4_643d6239:
 
     # m "Bye."
-    m ""
+    m "再见。"
 
 # game/script.rpy:573
 translate Chinese michael5_c5bcdb3c:
 
     # m "Ok, now for the final question..."
-    m ""
+    m "OK，最后一个问题......"
 
 # game/script.rpy:573
 translate Chinese michael5_911d8fa3:
 
     # m "And be careful, because it's essential!"
-    m ""
+    m "注意了啊，它很重要！"
 
 # game/script.rpy:573
 translate Chinese michael5_32ba5add:
 
     # m "So…"
-    m ""
+    m "那么......"
 
 # game/script.rpy:573
 translate Chinese michael5_c941b37a:
 
     # m "Are you a morning person or a night owl?"
-    m ""
+    m "你是早睡早起型的，还是夜猫子？"
 
 # game/script.rpy:590
 translate Chinese michael5_64b88e1f:
 
     # m "Y E S !"
-    m ""
+    m "太！好！了！"
 
 # game/script.rpy:590
 translate Chinese michael5_8d63f5da:
 
     # m "I knew it was meant to be!"
-    m ""
+    m "我就知道肯定是这样！"
 
 # game/script.rpy:590
 translate Chinese michael5_67b901fe:
 
     # m "Night is just the best, right?"
-    m ""
+    m "凌晨才是黄金时间，是不是？"
 
 # game/script.rpy:597
 translate Chinese michael5_08ff6efc:
@@ -1247,25 +1247,25 @@ translate Chinese michael5_795d33b8:
 translate Chinese michael5_2c5f7af5:
 
     # m "I totally get what you mean."
-    m ""
+    m "我太懂你的意思了。"
 
 # game/script.rpy:604
 translate Chinese michael5_f38a8382:
 
     # m "It's not that I dislike sunlight, but..."
-    m ""
+    m "不是说我不喜欢阳光，只是......"
 
 # game/script.rpy:604
 translate Chinese michael5_6c610fe6:
 
     # m "The moon has something special to it, right?"
-    m ""
+    m "月亮有种奇特的东西，对吧？"
 
 # game/script.rpy:604
 translate Chinese michael5_d2fde6ba:
 
     # m "Something difficult to describe."
-    m ""
+    m "很难形容是什么。"
 
 # game/script.rpy:613
 translate Chinese michael5_bb7991a6:
@@ -1277,19 +1277,19 @@ translate Chinese michael5_bb7991a6:
 translate Chinese michael5_2c740821:
 
     # m "I think I'm in love with the moon."
-    m ""
+    m "我觉得我爱上月亮了。"
 
 # game/script.rpy:614
 translate Chinese michael5_59dc56fe:
 
     # m "Every night I sing to her..."
-    m ""
+    m "每天晚上我都对着她唱歌......"
 
 # game/script.rpy:614
 translate Chinese michael5_d1231bd5:
 
     # m "Wishing she would come down to me."
-    m ""
+    m "希望她能下来找我......"
 
 # game/script.rpy:621
 translate Chinese michael5_34e0aed9:
@@ -1301,31 +1301,31 @@ translate Chinese michael5_34e0aed9:
 translate Chinese michael5_25df1cdc:
 
     # m "Why thank you."
-    m ""
+    m "干嘛这么说，谢了。"
 
 # game/script.rpy:627
 translate Chinese michael5_33083b51:
 
     # m "Oh..."
-    m ""
+    m "哦......"
 
 # game/script.rpy:627
 translate Chinese michael5_716cd11e:
 
     # m "That’s unfortunate."
-    m ""
+    m "那真是家门不幸。"
 
 # game/script.rpy:627
 translate Chinese michael5_c8837687:
 
     # m "But..."
-    m ""
+    m "不过......"
 
 # game/script.rpy:627
 translate Chinese michael5_8e62db32:
 
     # m "Oh."
-    m ""
+    m "哦。"
 
 # game/script.rpy:636
 translate Chinese michael5_1c524eea:
@@ -1337,73 +1337,73 @@ translate Chinese michael5_1c524eea:
 translate Chinese mic_noans5_2716aa86:
 
     # m "I didn't know I was talking to a wall..."
-    m ""
+    m "我都不知道原来我是在跟一堵墙说话呢。"
 
 # game/script.rpy:645
 translate Chinese mic_noans5_24cb5273:
 
     # m "Guess I'll talk with someone else, then."
-    m ""
+    m "我猜我还是去找别人聊吧。"
 
 # game/script.rpy:645
 translate Chinese mic_noans5_089680d7:
 
     # m "Just know you've escaped fate, tonight."
-    m ""
+    m "你可不知道你今晚错过了什么。"
 
 # game/script.rpy:645
 translate Chinese mic_noans5_643d6239:
 
     # m "Bye."
-    m ""
+    m "再见。"
 
 # game/script.rpy:659
 translate Chinese michaelcount_c1c307e0:
 
     # m "Well, Lars..."
-    m ""
+    m "好吧，拉尔斯......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_bb1fea5a:
 
     # m "Let me just say that you're an amazing man."
-    m ""
+    m "不得不说你这人挺绝的。"
 
 # game/script.rpy:659
 translate Chinese michaelcount_2a413a6f:
 
     # m "Attractive..."
-    m ""
+    m "长得好......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_715b2cc9:
 
     # m "Intelligent..."
-    m ""
+    m "又聪明......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_2333518f:
 
     # m "Interesting..."
-    m ""
+    m "还有趣......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_02abed9b:
 
     # m "So."
-    m ""
+    m "既然如此。"
 
 # game/script.rpy:659
 translate Chinese michaelcount_289418c4:
 
     # m "Why don't we go to my house and..."
-    m ""
+    m "要不去我家，然后......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_94c8d6e9:
 
     # m "I don't know, take a look at my knitting skills?"
-    m ""
+    m "或许，看看我织东西的技术？"
 
 # game/script.rpy:676
 translate Chinese michaelcount_c22f5f3a:
@@ -1415,55 +1415,55 @@ translate Chinese michaelcount_c22f5f3a:
 translate Chinese michaelcount_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "这个嘛......"
 
 # game/script.rpy:677
 translate Chinese michaelcount_b8aea200:
 
     # m "You’ll just have to see for yourself!"
-    m ""
+    m "你必须得亲眼看看！"
 
 # game/script.rpy:686
 translate Chinese michaelcount_bc20b2cd:
 
     # m "Listen, Lars..."
-    m ""
+    m "听我说，拉尔斯......"
 
 # game/script.rpy:686
 translate Chinese michaelcount_b36fd1d9:
 
     # m "You're charming and very interesting."
-    m ""
+    m "你有魅力，也很有趣。"
 
 # game/script.rpy:686
 translate Chinese michaelcount_d2300aae:
 
     # m "Talking with you has been fun."
-    m ""
+    m "和你聊天挺有意思。"
 
 # game/script.rpy:686
 translate Chinese michaelcount_2140530f:
 
     # m "Well, at times."
-    m ""
+    m "好吧，有时候有。"
 
 # game/script.rpy:686
 translate Chinese michaelcount_9d49c7bc:
 
     # m "Other times, not so much."
-    m ""
+    m "其他时候，差点意思。"
 
 # game/script.rpy:686
 translate Chinese michaelcount_6f457da1:
 
     # m "But still..."
-    m ""
+    m "不过还是..."
 
 # game/script.rpy:686
 translate Chinese michaelcount_6d3b1f6b:
 
     # m "I think I want to talk with other people, you know?"
-    m ""
+    m "我觉得我想再和别人聊聊看，你懂吧？"
 
 # game/script.rpy:701
 translate Chinese michaelcount_5fbdf473:
@@ -1475,13 +1475,13 @@ translate Chinese michaelcount_5fbdf473:
 translate Chinese michaelcount_697beb79:
 
     # m "Great!"
-    m ""
+    m "那就好！"
 
 # game/script.rpy:702
 translate Chinese michaelcount_57eb43f1:
 
     # m "Maybe I'll show you my knitting skills another time..."
-    m ""
+    m "说不定下次有机会再给你展示一下我织东西的技术。"
 
 # game/script.rpy:707
 translate Chinese michaelcount_d735d833:
@@ -1493,25 +1493,25 @@ translate Chinese michaelcount_d735d833:
 translate Chinese michaelending_252f3573:
 
     # m "So..."
-    m ""
+    m "那么......"
 
 # game/script.rpy:717
 translate Chinese michaelending_de25c960:
 
     # m "Here it is!"
-    m ""
+    m "现在就到此为止吧！"
 
 # game/script.rpy:720
 translate Chinese michaelending_f63fa2e4:
 
     # m "My dear basement..."
-    m ""
+    m "我的宝贝地下室......"
 
 # game/script.rpy:723
 translate Chinese michaelending_f5789b54:
 
     # m "What do you think about it?"
-    m ""
+    m "你觉得怎么样？"
 
 # game/script.rpy:727
 translate Chinese michaelending_68b17489:
@@ -1523,7 +1523,7 @@ translate Chinese michaelending_68b17489:
 translate Chinese michaelending_73055156:
 
     # m "You like it so much that you're speechless, huh?"
-    m ""
+    m "喜欢到说不出话了，啊？"
 
 # game/script.rpy:731
 translate Chinese michaelending_8b258bb3:
@@ -5193,1138 +5193,3 @@ translate Chinese joh_noans3_a75eb3eb:
 
 # game/script.rpy:2526
 translate Chinese johnny4_9594acb1:
-
-    # j "Now tell me, my dear Larsy..."
-    j ""
-
-# game/script.rpy:2526
-translate Chinese johnny4_dccf3f60:
-
-    # j "What's your job?"
-    j ""
-
-# game/script.rpy:2531
-translate Chinese johnny4_3405fec7:
-
-    # "...I swear nobody ever called me like that."
-    ""
-
-# game/script.rpy:2531
-translate Chinese johnny4_2da376d7:
-
-    # "Larsy?"
-    ""
-
-# game/script.rpy:2531
-translate Chinese johnny4_40098a6e:
-
-    # "Is he on drugs for real or what?"
-    ""
-
-# game/script.rpy:2546
-translate Chinese johnny4_56597aef:
-
-    # j "Loser like me..."
-    j ""
-
-# game/script.rpy:2546
-translate Chinese johnny4_211d4adf:
-
-    # j "Great."
-    j ""
-
-# game/script.rpy:2546
-translate Chinese johnny4_29100a26:
-
-    # j "Not my favourite for a date, but..."
-    j ""
-
-# game/script.rpy:2546
-translate Chinese johnny4_af125eca:
-
-    # j "Oh well, who gives a damn."
-    j ""
-
-# game/script.rpy:2546
-translate Chinese johnny4_6c160283:
-
-    # j "At least we have beer."
-    j ""
-
-# game/script.rpy:2557
-translate Chinese johnny4_e5ec808b:
-
-    # "L-loser..."
-    ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_ff2a139c:
-
-    # j "Books?"
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_f5ebe682:
-
-    # j "Man, the world is ready to fuck you up, then!"
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_72ebe6aa:
-
-    # j "Ain't no future with books, listen to me!"
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_9e36d841:
-
-    # j "I tried to write books and look at me now!"
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_59678da0:
-
-    # j "But well… I respect your choice a lot, you know?"
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_9e44d6f7:
-
-    # j "Fighting against the world to make ends meet..."
-    j ""
-
-# game/script.rpy:2562
-translate Chinese johnny4_c868c847:
-
-    # j "That's what is incredible about us humans."
-    j ""
-
-# game/script.rpy:2577
-translate Chinese johnny4_7b7380ea:
-
-    # l "T-thanks, I appreciate that..."
-    l ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_b4fa3fc0:
-
-    # j "..."
-    j ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_b4fa3fc0_1:
-
-    # j "..."
-    j ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_b4fa3fc0_2:
-
-    # j "..."
-    j ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_b4fa3fc0_3:
-
-    # j "..."
-    j ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_cab76340:
-
-    # j "Is this a competition?"
-    j ""
-
-# game/script.rpy:2581
-translate Chinese joh_noans4_90b38c60:
-
-    # j "Because I'm competitive."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_abda2d32:
-
-    # j "Huh, guess you just want to be with yourself."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_d4cab665:
-
-    # j "That's good."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_7c7721c5:
-
-    # j "Perfectly fine."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_c0d8dcf8:
-
-    # j "I understand that."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_9cd3fae9:
-
-    # j "So..."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_0446b972:
-
-    # j "Let me just..."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_d26f2e9b:
-
-    # j "Sliiide away."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_91f2770f:
-
-    # j "Very slowly."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_c1b0fceb:
-
-    # j "Slooowlyyy."
-    j ""
-
-# game/script.rpy:2596
-translate Chinese joh_noans4_a75eb3eb:
-
-    # j "‘K bye."
-    j ""
-
-# game/script.rpy:2624
-translate Chinese johnny5_985786b3:
-
-    # j "Ok, now for a totally different question!"
-    j ""
-
-# game/script.rpy:2624
-translate Chinese johnny5_51cda3d1:
-
-    # j "If you could choose a superpower what would it be?"
-    j ""
-
-# game/script.rpy:2629
-translate Chinese johnny5_a20cefa7:
-
-    # "..."
-    ""
-
-# game/script.rpy:2629
-translate Chinese johnny5_ec6ef0a8:
-
-    # "Haven’t I heard this question before?"
-    ""
-
-# game/script.rpy:2629
-translate Chinese johnny5_5c5b9ce3:
-
-    # "So we really all read the same article about speed-dates..."
-    ""
-
-# game/script.rpy:2644
-translate Chinese johnny5_2125aa0f:
-
-    # j "Flying?"
-    j ""
-
-# game/script.rpy:2644
-translate Chinese johnny5_249bac21:
-
-    # j "Come on, that's boring, man!"
-    j ""
-
-# game/script.rpy:2649
-translate Chinese johnny5_3c54f4dd:
-
-    # l "Oh..."
-    l ""
-
-# game/script.rpy:2650
-translate Chinese johnny5_3c8d8fa5:
-
-    # j "Sorry, I'm just spitting truth here."
-    j ""
-
-# game/script.rpy:2655
-translate Chinese johnny5_be90cdb6:
-
-    # j "That's right, my man!!"
-    j ""
-
-# game/script.rpy:2655
-translate Chinese johnny5_b1bf5163:
-
-    # j "Invisibility is the best!"
-    j ""
-
-# game/script.rpy:2655
-translate Chinese johnny5_ff00c104:
-
-    # j "Can you imagine the possibility of entering into changing rooms?"
-    j ""
-
-# game/script.rpy:2655
-translate Chinese johnny5_e051e1ef:
-
-    # j "Maaan, that would be incredible..."
-    j ""
-
-# game/script.rpy:2664
-translate Chinese johnny5_4577f2c3:
-
-    # l "...sure."
-    l ""
-
-# game/script.rpy:2665
-translate Chinese johnny5_090f8ba3:
-
-    # j "Heheh...changing rooms..."
-    j ""
-
-# game/script.rpy:2666
-translate Chinese johnny5_29ce20f3:
-
-    # "...sheesh."
-    ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_9cd3fae9:
-
-    # j "So..."
-    j ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_ce62e598:
-
-    # j "It's nice to take a pause."
-    j ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_65a4fbaa:
-
-    # j "You know, just sometimes."
-    j ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_e44705f0:
-
-    # j "Enjoy the silence."
-    j ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_69732849:
-
-    # j "Feeling the vibes."
-    j ""
-
-# game/script.rpy:2670
-translate Chinese joh_noans5_de0292ef:
-
-    # j "It's nice, I know."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_abda2d32:
-
-    # j "Huh, guess you just want to be with yourself."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_d4cab665:
-
-    # j "That's good."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_7c7721c5:
-
-    # j "Perfectly fine."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_c0d8dcf8:
-
-    # j "I understand that."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_9cd3fae9_1:
-
-    # j "So..."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_0446b972:
-
-    # j "Let me just..."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_d26f2e9b:
-
-    # j "Sliiide away."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_91f2770f:
-
-    # j "Very slowly."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_c1b0fceb:
-
-    # j "Slooowlyyy."
-    j ""
-
-# game/script.rpy:2685
-translate Chinese joh_noans5_a75eb3eb:
-
-    # j "‘K bye."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_286c67b3:
-
-    # j "Ok, so..."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_185aa889:
-
-    # j "It's nice to stay here and talk..."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_6811e0e7:
-
-    # j "You know, vibing and stuff."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_b449760b:
-
-    # j "Really cool."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_447d7474:
-
-    # j "For sure."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_d15811e7:
-
-    # j "But what about some action?"
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_ca6078cf:
-
-    # j "Got the real deal 'chez moi'."
-    j ""
-
-# game/script.rpy:2716
-translate Chinese johnnycount_bb524005:
-
-    # j "...That means 'at my place'."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_c9633541:
-
-    # j "Listen, man..."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_d9d86d7e:
-
-    # j "I love you man, ok?"
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_b78ade22:
-
-    # j "I really do."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_984e517b:
-
-    # j "But..."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_c8bd116f:
-
-    # j "Let's say..."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_8b206926:
-
-    # j "That I prefer my beer, as of now, ok?"
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_7f99e802:
-
-    # j "You're cute but I'd rather get hit in the eye."
-    j ""
-
-# game/script.rpy:2737
-translate Chinese johnnycount_566def9f:
-
-    # j "…The other one."
-    j ""
-
-# game/script.rpy:2754
-translate Chinese johnnycount_bba4239a:
-
-    # "And yet he still stayed here for a while."
-    ""
-
-# game/script.rpy:2754
-translate Chinese johnnycount_138fa9d6:
-
-    # "We drank in silence."
-    ""
-
-# game/script.rpy:2754
-translate Chinese johnnycount_b2a063dc:
-
-    # "Awkwardly."
-    ""
-
-# game/script.rpy:2754
-translate Chinese johnnycount_cf395da7:
-
-    # "I don't think I'll do this ever again."
-    ""
-
-# game/script.rpy:2772
-translate Chinese johnnyending_77171e9d:
-
-    # l "You see, my dear Lars..."
-    l ""
-
-# game/script.rpy:2777
-translate Chinese johnnyending_4556e0d9:
-
-    # j "The world hates us!"
-    j ""
-
-# game/script.rpy:2780
-translate Chinese johnnyending_3cd2f186:
-
-    # j "Look at me!"
-    j ""
-
-# game/script.rpy:2783
-translate Chinese johnnyending_d8a5ed38:
-
-    # j "Look at how my life is!"
-    j ""
-
-# game/script.rpy:2786
-translate Chinese johnnyending_644cfb25:
-
-    # j "Shitty, right?"
-    j ""
-
-# game/script.rpy:2789
-translate Chinese johnnyending_255d8f7b:
-
-    # j "That's because I'm too smart for this world!"
-    j ""
-
-# game/script.rpy:2792
-translate Chinese johnnyending_b06dbcfa:
-
-    # j "And this world thinks it doesn't need me!"
-    j ""
-
-# game/script.rpy:2795
-translate Chinese johnnyending_09260137:
-
-    # j "But the truth is that it does!"
-    j ""
-
-# game/script.rpy:2798
-translate Chinese johnnyending_2d6d25ec:
-
-    # j "It's me who doesn't need this world!"
-    j ""
-
-# game/script.rpy:2801
-translate Chinese johnnyending_82f8f597:
-
-    # j "Ohh shit, I need another couple of drinks..."
-    j ""
-
-# game/script.rpy:2805
-translate Chinese johnnyending_4986acaf:
-
-    # "I think I need another couple of drinks too."
-    ""
-
-# game/script.rpy:2805
-translate Chinese johnnyending_bf0874e3:
-
-    # "But..."
-    ""
-
-# game/script.rpy:2805
-translate Chinese johnnyending_65fe7cb1:
-
-    # "Everything's… yeah."
-    ""
-
-# game/script.rpy:2805
-translate Chinese johnnyending_cef668aa:
-
-    # "Everything's fine."
-    ""
-
-# game/script.rpy:2816
-translate Chinese johnnyending_548b54f2:
-
-    # "A strangely abrupt ending..."
-    ""
-
-# game/script.rpy:2816
-translate Chinese johnnyending_bb83ff1d:
-
-    # "Weird."
-    ""
-
-# game/script.rpy:2816
-translate Chinese johnnyending_b178c2f2:
-
-    # "What do you say, have you enjoyed your date?"
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_a20cefa7:
-
-    # "..."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_63ff71bc:
-
-    # "What a horrible night."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_979aeb4c:
-
-    # "Walking in the rain was a bad idea."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_23efc147:
-
-    # "Not getting into that bar was even worse."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_a7d4da87:
-
-    # "And, as if all of this isn't enough, I've also lost my hat somewhere."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_63ff71bc_1:
-
-    # "What a horrible night."
-    ""
-
-# game/script.rpy:2837
-translate Chinese totallyalone_0c0278ae:
-
-    # "Life really is unfair, sometimes."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_a20cefa7:
-
-    # "..."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_63ff71bc:
-
-    # "What a horrible night."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_979aeb4c:
-
-    # "Walking in the rain was a bad idea."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_3f298552:
-
-    # "Getting into that bar was even worse."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_c505dac7:
-
-    # "What a waste of time."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_ef73ce41:
-
-    # "I'm tired of love."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_a7d4da87:
-
-    # "And, as if all of this isn't enough, I've also lost my hat somewhere."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_63ff71bc_1:
-
-    # "What a horrible night."
-    ""
-
-# game/script.rpy:2857
-translate Chinese sadending_0c0278ae:
-
-    # "Life really is unfair, sometimes."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_a20cefa7:
-
-    # "..."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_1e2746d1:
-
-    # "I couldn't stay in that bar any longer."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_b6cec7bf:
-
-    # "I get the feeling I've been there for hours."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_d86e418f:
-
-    # "It's strange..."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_530a10ad:
-
-    # "I can build relationships with so many people."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_5b755bfc:
-
-    # "And yet, I never find someone who I share something with."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_3fde2dbb:
-
-    # "I always hope to find someone that could complete me..."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_5ea3ad88:
-
-    # "But that never happens. Maybe it’s just unrealistic."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_16f3412e:
-
-    # "I thought that tonight I would find someone interesting."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_4ed05923:
-
-    # "...well, maybe I did."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_e29ab573:
-
-    # "Maybe I just didn’t try hard enough."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_3987fc93:
-
-    # "Maybe that’s all there is to life."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_b7c5ab03:
-
-    # "An endless cycle of searching, finding, losing and searching all over again."
-    ""
-
-# game/script.rpy:2881
-translate Chinese loveending_f99e20c1:
-
-    # "Will I ever find someone?"
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_a20cefa7:
-
-    # "..."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_25bf7ded:
-
-    # "Huff..."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_75d6d336:
-
-    # "By myself, once again."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_5b5100d8:
-
-    # "At the end of the day, no matter what happens, it's always just me."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_b712066b:
-
-    # "I'm starting to wonder if I should just..."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_2c2bc07a:
-
-    # "Accept it?"
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_b054ae76:
-
-    # "Accept myself, and my loneliness."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_4914da37:
-
-    # "Yeah..."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_f68ab5c9:
-
-    # "Maybe, at the end of today..."
-    ""
-
-# game/script.rpy:2915
-translate Chinese aloneending_c7c6a4f6:
-
-    # "I’ve already found what I was looking for."
-    ""
-
-translate Chinese strings:
-
-    # game/script.rpy:86
-    old "Yes"
-    new ""
-
-    # game/script.rpy:86
-    old "No"
-    new ""
-
-    # game/script.rpy:178
-    old "What's your name?"
-    new ""
-
-    # game/script.rpy:206
-    old "So, do you have any hobby?"
-    new ""
-
-    # game/script.rpy:206
-    old "Um, what do you do for a living?"
-    new ""
-
-    # game/script.rpy:299
-    old "What’s your favorite place in the whole world?"
-    new ""
-
-    # game/script.rpy:299
-    old "I’m a dog lover. Do you have any pets?"
-    new ""
-
-    # game/script.rpy:394
-    old "We don't get along so well..."
-    new ""
-
-    # game/script.rpy:394
-    old "It's a normal, ordinary family."
-    new ""
-
-    # game/script.rpy:498
-    old "Oh, yes! Once, a famous actor that looks like me asked me for an autograph..."
-    new ""
-
-    # game/script.rpy:498
-    old "Once I got so drunk, I fell asleep on my grandmother!"
-    new ""
-
-    # game/script.rpy:586
-    old "Night owl, definitely."
-    new ""
-
-    # game/script.rpy:586
-    old "I always have to get up early to work..."
-    new ""
-
-    # game/script.rpy:758
-    old "Loved it!"
-    new ""
-
-    # game/script.rpy:758
-    old "Get me out of here!"
-    new ""
-
-    # game/script.rpy:842
-    old "I like strong drinks, but I usually go for white wine."
-    new ""
-
-    # game/script.rpy:842
-    old "I could drink Bloody Mary all night long."
-    new ""
-
-    # game/script.rpy:897
-    old "Have you read any good books lately?"
-    new ""
-
-    # game/script.rpy:897
-    old "Hm… if you could choose a superpower what would it be?"
-    new ""
-
-    # game/script.rpy:991
-    old "Mostly biographies… must seem boring, right?"
-    new ""
-
-    # game/script.rpy:991
-    old "Fantasy, horror… whatever I feel like!"
-    new ""
-
-    # game/script.rpy:1074
-    old "Yes, it's a good pay, and I inherited a fair amount."
-    new ""
-
-    # game/script.rpy:1074
-    old "Uhm, my books don't sell much, lately..."
-    new ""
-
-    # game/script.rpy:1130
-    old "Every sunday morning!"
-    new ""
-
-    # game/script.rpy:1130
-    old "Well, I'm a bit busy with my books..."
-    new ""
-
-    # game/script.rpy:1302
-    old "Money = Independency"
-    new ""
-
-    # game/script.rpy:1302
-    old "Maybe I could give someone else a try..."
-    new ""
-
-    # game/script.rpy:1355
-    old "I'm a libra! And you?"
-    new ""
-
-    # game/script.rpy:1355
-    old "Uh, I’m not sure… I'm not really into signs."
-    new ""
-
-    # game/script.rpy:1402
-    old "What’s the fondest memory you have?"
-    new ""
-
-    # game/script.rpy:1402
-    old "Have you listened to any cool band lately?"
-    new ""
-
-    # game/script.rpy:1490
-    old "Have you seen any good movie, lately?"
-    new ""
-
-    # game/script.rpy:1577
-    old "I have one on… well, it’s a private place."
-    new ""
-
-    # game/script.rpy:1577
-    old "I don’t think I could stand having something on my skin for life...."
-    new ""
-
-    # game/script.rpy:1656
-    old "Uhm… I’d like to have Mads Mikkelsen."
-    new ""
-
-    # game/script.rpy:1656
-    old "That’s… a weird question."
-    new ""
-
-    # game/script.rpy:1790
-    old "I don't mind being more invested."
-    new ""
-
-    # game/script.rpy:1790
-    old "I think I need another drink..."
-    new ""
-
-    # game/script.rpy:1845
-    old "After the last date… I feel like an old-fashioned man. What kind of person are you?"
-    new ""
-
-    # game/script.rpy:1845
-    old "So, what’s your story?"
-    new ""
-
-    # game/script.rpy:1917
-    old "I'm quite busy, I'm afraid I’m just not the plant type."
-    new ""
-
-    # game/script.rpy:1917
-    old "I'd like to, but I’m afraid I would end up killing them..."
-    new ""
-
-    # game/script.rpy:1984
-    old "What’s a typical weekend like for you?"
-    new ""
-
-    # game/script.rpy:1984
-    old "Do you go to the cinema?"
-    new ""
-
-    # game/script.rpy:2059
-    old "What kind of music do you usually listen to?"
-    new ""
-
-    # game/script.rpy:2059
-    old "Do you have any pets?"
-    new ""
-
-    # game/script.rpy:2123
-    old "Well, I'm not one for talking, at night..."
-    new ""
-
-    # game/script.rpy:2123
-    old "I could lose myself into explaining the stories I write."
-    new ""
-
-    # game/script.rpy:2241
-    old "A small headache isn't a tragedy!"
-    new ""
-
-    # game/script.rpy:2241
-    old "I think I forgot my phone at the bar..."
-    new ""
-
-    # game/script.rpy:2281
-    old "Uhm, absolutely...!"
-    new ""
-
-    # game/script.rpy:2281
-    old "I prefer wine, sorry."
-    new ""
-
-    # game/script.rpy:2310
-    old "Is this your first time?"
-    new ""
-
-    # game/script.rpy:2310
-    old "What happened to your eye?"
-    new ""
-
-    # game/script.rpy:2439
-    old "And what do you do for a living?"
-    new ""
-
-    # game/script.rpy:2439
-    old "If you could live anywhere, where would it be?"
-    new ""
-
-    # game/script.rpy:2542
-    old "It’s not much..."
-    new ""
-
-    # game/script.rpy:2542
-    old "I write books."
-    new ""
-
-    # game/script.rpy:2640
-    old "Definitely flying."
-    new ""
-
-    # game/script.rpy:2640
-    old "Invisibility!"
-    new ""
-
-    # game/script.rpy:2823
-    old "I think the world hates me, too!"
-    new ""
-
-    # game/script.rpy:2823
-    old "Can I go elsewhere? Asking for a friend."
-    new ""
-
-    # script.rpy:3426
-    old "Art by\n\nGaia Papoila\nand\nLidia Santoemma"
-    new ""
-
-    # script.rpy:3426
-    old "UI by\n\nLidia Santoemma"
-    new ""
-
-    # script.rpy:3426
-    old "Writing, Programming and Directing by\n\nRinkaku"
-    new ""
-
-    # script.rpy:3426
-    old "Music from\n\nBensound.com"
-    new ""
-
-    # script.rpy:3426
-    old "Thank you for playing!"
-    new "Grazie per aver giocato!"
-
-    # script.rpy:3426
-    old "Thank you Mads."
-    new ""
