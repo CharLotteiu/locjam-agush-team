@@ -6059,11 +6059,11 @@ translate Chinese strings:
 
     # game/script.rpy:86
     old "Yes"
-    new ""
+    new "确定"
 
     # game/script.rpy:86
     old "No"
-    new ""
+    new "算了"
 
     # game/script.rpy:178
     old "What's your name?"
