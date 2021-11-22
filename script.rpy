@@ -1841,7 +1841,7 @@ translate Chinese skylar_a7ddccc2:
 translate Chinese skylar_4dd93561:
 
     # s "Mixing is for lowlifes."
-    s "混合酒都是给下人喝的。"
+    s "混合酒都是给下等人喝的。"
 
 # game/script.rpy:881
 translate Chinese skylar_474f1612:
