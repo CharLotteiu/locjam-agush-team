@@ -149,7 +149,7 @@ translate Chinese date_63a603ae:
 translate Chinese date_d64a0bc8:
 
     # "It gives me lots of good vibes."
-    "It gives me lots of good vibes."
+    "很吸引我。"
 
 # game/script.rpy:110
 translate Chinese date_bc82e891:
@@ -1025,7 +1025,7 @@ translate Chinese michael4_0f97e738:
 translate Chinese michael4_ee068645:
 
     # l "I was talking to some friends when a man approached me, out of the blue!"
-    l "我正在和朋友聊天，一个男的突然朝着我走来！"
+    l "我正和朋友聊着，一个男的突然朝着我走来！"
 
 # game/script.rpy:505
 translate Chinese michael4_0a80a283:
@@ -1487,7 +1487,7 @@ translate Chinese michaelcount_57eb43f1:
 translate Chinese michaelcount_d735d833:
 
     # "... I don’t know why, but I hope that won't happen."
-    "...说实话我也不是很想看"
+    "...说实话我也不是很想看。"
 
 # game/script.rpy:712
 translate Chinese michaelending_252f3573:
@@ -1559,7 +1559,7 @@ translate Chinese michaelending_7c44c9ae:
 translate Chinese michaelending_5a29ec2d:
 
     # "Everything's fi-"
-    "没事的，没——"
+    "没事的，没..."
 
 # game/script.rpy:751
 translate Chinese michaelending_548b54f2:
