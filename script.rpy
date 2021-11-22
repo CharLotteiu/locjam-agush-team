@@ -2009,7 +2009,7 @@ translate Chinese skylar2_670f8249:
 translate Chinese skylar2_73c437e3:
 
     # l "Uh… excuse me?"
-    l "等等...打断你一下"
+    l "等等...打断一下"
 
 # game/script.rpy:953
 translate Chinese skylar2_722ed750_1:
