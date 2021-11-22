@@ -1655,7 +1655,7 @@ translate Chinese skylar_2bb96ada:
 translate Chinese skylar_2e07a44a:
 
     # s "Are you actually his brother?"
-    s "不会真的是兄弟吧？"
+    s "不会真的是吧？"
 
 # game/script.rpy:795
 translate Chinese skylar_3b484822:
@@ -1673,13 +1673,13 @@ translate Chinese skylar_231acabd:
 translate Chinese skylar_cd395ea1:
 
     # s "Are you...?"
-    s "你是不是……？"
+    s "你有没有……？"
 
 # game/script.rpy:808
 translate Chinese skylar_f156f0ad:
 
     # l "Nope."
-    l "不不不。"
+    l "没有。"
 
 # game/script.rpy:808
 translate Chinese skylar_3a1f2cfc:
@@ -1703,7 +1703,7 @@ translate Chinese skylar_c2a53ec4:
 translate Chinese skylar_0eee1aab:
 
     # s "Sure..."
-    s "也难怪……"
+    s "好吧……"
 
 # game/script.rpy:820
 translate Chinese skylar_997370e3:
@@ -1757,13 +1757,13 @@ translate Chinese skylar_298c5fdd:
 translate Chinese skylar_33825122:
 
     # s "I knew you were an elegant one!"
-    s "我就知道你不是个俗人！"
+    s "就知道你不是个俗人！"
 
 # game/script.rpy:846
 translate Chinese skylar_8a6ab290:
 
     # s "I like sophisticated men..."
-    s "我喜欢成熟男人……"
+    s "我很喜欢成熟的男人……"
 
 # game/script.rpy:851
 translate Chinese skylar_8c40c845:
@@ -1781,13 +1781,13 @@ translate Chinese skylar_4df6e62e:
 translate Chinese skylar_5b1ec89c:
 
     # l "I meant-"
-    l "我是说..."
+    l "我是说……"
 
 # game/script.rpy:858
 translate Chinese skylar_a977813f:
 
     # s "And shy, too..."
-    s "害羞的男人也很好……"
+    s "害羞的也喜欢……"
 
 # game/script.rpy:858
 translate Chinese skylar_55f960a0:
@@ -1805,7 +1805,7 @@ translate Chinese skylar_3073b6b8:
 translate Chinese skylar_1bd9d035:
 
     # l "T-thanks..."
-    l "谢...谢谢"
+    l "谢……谢谢"
 
 # game/script.rpy:868
 translate Chinese skylar_861215c7:
@@ -1841,13 +1841,13 @@ translate Chinese skylar_a7ddccc2:
 translate Chinese skylar_4dd93561:
 
     # s "Mixing is for lowlifes."
-    s "混合酒都是给下等人喝的。"
+    s "只有下等人才喝调酒。"
 
 # game/script.rpy:881
 translate Chinese skylar_474f1612:
 
     # "Ughh… I hope I’m reading too much into this."
-    "呃...希望是我想多了。"
+    "呃……希望是我想多了。"
 
 # game/script.rpy:882
 translate Chinese skylar_124475e7:
@@ -1859,19 +1859,19 @@ translate Chinese skylar_124475e7:
 translate Chinese sky_noans1_d65e5269:
 
     # s "Guess you don't have one..."
-    s "我猜你并不知道……"
+    s "我猜你没有最喜欢的……"
 
 # game/script.rpy:885
 translate Chinese sky_noans1_038cf519:
 
     # s "But an answer would have been appreciated."
-    s "但要是能有个答案，我会很高兴的。"
+    s "但我希望你能说点什么……"
 
 # game/script.rpy:892
 translate Chinese skylar2_0d172b77:
 
     # l "So, uh..."
-    l "那..."
+    l "那……"
 
 # game/script.rpy:901
 translate Chinese skylar2_dab7acff:
@@ -1883,7 +1883,7 @@ translate Chinese skylar2_dab7acff:
 translate Chinese skylar2_f5c985c5:
 
     # s "You should definitely dive into chinese literature, if you haven’t."
-    s "如果你没有接触过中国文学的话，一定要去研究一下。"
+    s "如果你不了解中国文学的话，一定要研究一下。"
 
 # game/script.rpy:901
 translate Chinese skylar2_6db6cbda:
@@ -1913,7 +1913,7 @@ translate Chinese skylar2_73c5b5dd:
 translate Chinese skylar2_ca9fa94a:
 
     # l "Yes, a long time ago."
-    l ""
+    l "读过，很久之前了。"
 
 # game/script.rpy:914
 translate Chinese skylar2_dfd94542:
@@ -1955,7 +1955,7 @@ translate Chinese skylar2_7e09152e:
 translate Chinese skylar2_2f3a9d9d:
 
     # l "Well, I’m not really f-"
-    l "呃，也不是很有名..."
+    l "呃，也不是很有名……"
 
 # game/script.rpy:931
 translate Chinese skylar2_be283022:
@@ -1973,7 +1973,7 @@ translate Chinese skylar2_8d73de60:
 translate Chinese skylar2_e61bae06:
 
     # l "Y-yes..."
-    l "是...是吗"
+    l "是……是吗"
 
 # game/script.rpy:941
 translate Chinese skylar2_722ed750:
@@ -1991,7 +1991,7 @@ translate Chinese skylar2_1e2c5b32:
 translate Chinese skylar2_2ee57e6a:
 
     # s "I'm not into those things, sorry."
-    s "对不起我对那些不感兴趣。"
+    s "对不起，我对那些不感兴趣。"
 
 # game/script.rpy:941
 translate Chinese skylar2_c698919a:
@@ -2009,7 +2009,7 @@ translate Chinese skylar2_670f8249:
 translate Chinese skylar2_73c437e3:
 
     # l "Uh… excuse me?"
-    l "等等...打断一下"
+    l "等等……打断一下"
 
 # game/script.rpy:953
 translate Chinese skylar2_722ed750_1:
@@ -2045,13 +2045,13 @@ translate Chinese skylar2_63ddd01d:
 translate Chinese skylar2_ecf6d594:
 
     # l "I… of course."
-    l "我...确实。"
+    l "我……确实。"
 
 # game/script.rpy:966
 translate Chinese sky_noans2_57344b6c:
 
     # s "Are you in there?"
-    s "你还在吗？"
+    s "你还在听吗？"
 
 # game/script.rpy:971
 translate Chinese sky_noans2_91ec7011:
@@ -2081,7 +2081,7 @@ translate Chinese skylar3_87038562:
 translate Chinese skylar3_36fecb45:
 
     # s "What is it that you write about?"
-    s "你在写什么呢？"
+    s "你的书是讲什么的？"
 
 # game/script.rpy:995
 translate Chinese skylar3_1b4b4d71:
@@ -2099,13 +2099,13 @@ translate Chinese skylar3_4fd103d1:
 translate Chinese skylar3_b3946740:
 
     # s "Who knows, maybe yours could be the next?"
-    s "谁知道下一本出版的会不会是你的呢？"
+    s "谁知道下一本出版的会不会就是你的呢？"
 
 # game/script.rpy:1002
 translate Chinese skylar3_049d1d31:
 
     # l "R-really?"
-    l "真、真的吗..."
+    l "真、真的吗……"
 
 # game/script.rpy:1003
 translate Chinese skylar3_0c1ed8e5:
@@ -2153,7 +2153,7 @@ translate Chinese skylar3_94e46f9d:
 translate Chinese skylar3_61762fb4:
 
     # l "Yeah… I hope the cashier will think so, too."
-    l "好吧...希望收银员也是这么想的。"
+    l "好吧……希望收银员也是这么想的。"
 
 # game/script.rpy:1019
 translate Chinese skylar3_d94ff3ea:
@@ -2219,7 +2219,7 @@ translate Chinese skylar3_a9b0649b:
 translate Chinese skylar3_19448178:
 
     # l "...I’m pretty happy about my life."
-    l "...我对自己的生活很满意。"
+    l "……我对自己的生活很满意。"
 
 # game/script.rpy:1043
 translate Chinese skylar3_71827aae:
@@ -2261,7 +2261,7 @@ translate Chinese sky_noans3_ea786c2d:
 translate Chinese skylar4_50b61387:
 
     # s "So, tell me..."
-    s "那么跟我说说……"
+    s "那跟我说说……"
 
 # game/script.rpy:1065
 translate Chinese skylar4_b05af65d:
@@ -2285,7 +2285,7 @@ translate Chinese skylar4_b9991897:
 translate Chinese skylar4_82822a0c:
 
     # l "..."
-    l "..."
+    l "……"
 
 # game/script.rpy:1088
 translate Chinese skylar4_b2dcfe05:
@@ -2309,7 +2309,7 @@ translate Chinese skylar4_57d641b6:
 translate Chinese skylar4_08f8c80e:
 
     # l "Yeah..."
-    l "是啊..."
+    l "是啊……"
 
 # game/script.rpy:1096
 translate Chinese skylar4_e1554201:
@@ -2321,7 +2321,7 @@ translate Chinese skylar4_e1554201:
 translate Chinese skylar4_82822a0c_1:
 
     # l "..."
-    l "..."
+    l "……"
 
 # game/script.rpy:1101
 translate Chinese sky_noans4_87038562:
@@ -2429,13 +2429,13 @@ translate Chinese skylar5_86836e13:
 translate Chinese skylar5_9f879375:
 
     # s "Don't think about it."
-    s "没什么。"
+    s "当我什么都没说。"
 
 # game/script.rpy:1157
 translate Chinese skylar5_2c377a29:
 
     # l "...ok."
-    l "...好吧"
+    l "……好吧"
 
 # game/script.rpy:1162
 translate Chinese skylar5_613ef063:
@@ -2465,7 +2465,7 @@ translate Chinese skylar5_3c7c9fa3:
 translate Chinese skylar5_4e765910:
 
     # l "...I'm sorry?"
-    l "...你在说什么？"
+    l "……你在说什么？"
 
 # game/script.rpy:1172
 translate Chinese skylar5_82179515:
@@ -2579,13 +2579,13 @@ translate Chinese skylarcount_c3df1ca2:
 translate Chinese skylarcount_d425a67f:
 
     # "And... she’s gone. That was depressing."
-    "然后...她就走了。真郁闷。"
+    "然后……她就走了。真郁闷。"
 
 # game/script.rpy:1230
 translate Chinese skylarending_8683dcf6:
 
     # "When she told me we’d get to know each other intimately..."
-    "她说让我们深入了解一下的时候..."
+    "她说让我们深入了解一下的时候……"
 
 # game/script.rpy:1230
 translate Chinese skylarending_5aab6aed:
@@ -2603,7 +2603,7 @@ translate Chinese skylarending_d1caafa6:
 translate Chinese skylarending_32a89a77:
 
     # s "And that's not all!"
-    s "但并不止这些！"
+    s "但那只是冰山一角！"
 
 # game/script.rpy:1246
 translate Chinese skylarending_36c85fd9:
@@ -2645,7 +2645,7 @@ translate Chinese skylarending_8d323cd0:
 translate Chinese skylarending_ab726b50:
 
     # s "But I know that some may think I'm obsessed with money."
-    s "不过我知道，有些人可能觉得我贪恋金钱。"
+    s "我知道，有些人可能觉得我贪恋金钱。"
 
 # game/script.rpy:1267
 translate Chinese skylarending_fea4590f:
@@ -2657,13 +2657,13 @@ translate Chinese skylarending_fea4590f:
 translate Chinese skylarending_75f83b73:
 
     # s "And what if that's true?"
-    s "但就算是真的，这又能怎么样呢？"
+    s "但即便如此，又能怎么样呢？"
 
 # game/script.rpy:1273
 translate Chinese skylarending_620b4c05:
 
     # s "What if my independence is proportional to the money I have?"
-    s "我独立和我的钱分不开，这又能怎么样呢？"
+    s "我的独立和钱分不开，这又能怎么样呢？"
 
 # game/script.rpy:1276
 translate Chinese skylarending_9d1c9ed1:
@@ -2675,19 +2675,19 @@ translate Chinese skylarending_9d1c9ed1:
 translate Chinese skylarending_8b71a61e:
 
     # s "That's the only law our world follows."
-    s "这就是我们这个世界唯一的规则。"
+    s "钱就是这个世界唯一的规则。"
 
 # game/script.rpy:1282
 translate Chinese skylarending_942ccb9d:
 
     # s "And that's why I like capitalism!"
-    s "这也是我为什么这么喜欢钞票的原因！"
+    s "这也是为什么我这么喜欢钞票的原因！"
 
 # game/script.rpy:1285
 translate Chinese skylarending_c474397d:
 
     # s "So that we can be independent and free together..."
-    s "这样我们才能自由又独立……"
+    s "有了钱，我们才能自由快活……"
 
 # game/script.rpy:1288
 translate Chinese skylarending_d30242e5:
@@ -2699,13 +2699,13 @@ translate Chinese skylarending_d30242e5:
 translate Chinese skylarending_e904f4f1:
 
     # "...everything's fine."
-    "...一切安好"
+    "……一切安好"
 
 # game/script.rpy:1295
 translate Chinese skylarending_548b54f2:
 
     # "A strangely abrupt ending..."
-    "莫名其妙的结尾..."
+    "莫名其妙的结尾……"
 
 # game/script.rpy:1295
 translate Chinese skylarending_bb83ff1d:
