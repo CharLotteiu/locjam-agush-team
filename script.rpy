@@ -23,145 +23,145 @@ translate Chinese strings:
 translate Chinese start_c1feb60b:
 
     # "It's been a month."
-    ""
+    "已经过去一个月了..."
 
 # game/script.rpy:53
 translate Chinese start_2f981222:
 
     # "A single, exact month, since you broke up with me."
-    ""
+    "从她离开我到现在，正好一整月。"
 
 # game/script.rpy:53
 translate Chinese start_777f3fad:
 
     # "And from that day I haven’t managed to move on."
-    ""
+    "我一直没走出来。"
 
 # game/script.rpy:53
 translate Chinese start_d1b6d376:
 
     # "Is this how people feel when they get left behind?"
-    ""
+    "被甩了之后都是这种感觉？"
 
 # game/script.rpy:53
 translate Chinese start_a45cd447:
 
     # "Is this how badly it hurts?"
-    ""
+    "分手原来这么痛？"
 
 # game/script.rpy:53
 translate Chinese start_bf974381:
 
     # "I never knew, it’s a first for me."
-    ""
+    "鬼知道呢，我也是第一次经历这种事。"
 
 # game/script.rpy:53
 translate Chinese start_0fb4e7c5:
 
     # "That’s why tonight I decided to take a walk."
-    ""
+    "所以我今晚想出来走走。"
 
 # game/script.rpy:53
 translate Chinese start_65627f7a:
 
     # "…and the weather is awful. Just my luck."
-    ""
+    "但又偏偏遇上这么个下雨天。唉，点儿真背。"
 
 # game/script.rpy:53
 translate Chinese start_61a2a75c:
 
     # "But I’ve had enough of moping around, I need to get out."
-    ""
+    "不过一直闷闷不乐也不是个事儿啊，是得出去透透气。"
 
 # game/script.rpy:53
 translate Chinese start_f3c69896:
 
     # "And, as I wandered through the streets like a lost soul..."
-    ""
+    "正当我在街上百无聊赖地徘徊时......"
 
 # game/script.rpy:53
 translate Chinese start_491be7bb:
 
     # "I found this place: 'Paradise Bar'."
-    ""
+    "我看到了这家“天堂酒吧”。"
 
 # game/script.rpy:53
 translate Chinese start_fcb3d7b9:
 
     # "Does this count as a good or a bad omen?"
-    ""
+    "这算是好事还是坏事呢？"
 
 # game/script.rpy:53
 translate Chinese start_bbaf9cf3:
 
     # "Oh, they’re hosting a speed-dating event."
-    ""
+    "啊，他们正在举行“闪电约会”活动。"
 
 # game/script.rpy:53
 translate Chinese start_4938552f:
 
     # "And it's full of people, too!"
-    ""
+    "而且好像人很多！"
 
 # game/script.rpy:53
 translate Chinese start_e719d9f6:
 
     # "Some time ago I read a cheesy article with a list of questions\nto ask during dates, so..."
-    ""
+    "我前不久刚读过一篇文章，很俗套，不过里面恰好总结了约会中必问的几个问题。那就..."
 
 # game/script.rpy:53
 translate Chinese start_8f2b548a:
 
     # "Should I give it a try?"
-    ""
+    "要不试试？"
 
 # game/script.rpy:97
 translate Chinese date_2432e259:
 
     # "This bar is crazy nice."
-    ""
+    "这个酒吧很不错嘛。"
 
 # game/script.rpy:97
 translate Chinese date_d4723f07:
 
     # "Good atmosphere."
-    ""
+    "氛围好。"
 
 # game/script.rpy:97
 translate Chinese date_43c09597:
 
     # "Lots of people."
-    ""
+    "人也多。"
 
 # game/script.rpy:97
 translate Chinese date_7b7d85fb:
 
     # "A bit noisy, but I don’t mind."
-    ""
+    "有一点吵，不过我倒是也不介意。"
 
 # game/script.rpy:97
 translate Chinese date_63a603ae:
 
     # "And everyone looks like they’re enjoying themselves!"
-    ""
+    "而且，每个人看起来都很享受！"
 
 # game/script.rpy:97
 translate Chinese date_d64a0bc8:
 
     # "It gives me lots of good vibes."
-    ""
+    "很吸引我。"
 
 # game/script.rpy:110
 translate Chinese date_bc82e891:
 
     # "As I wait at my assigned table, with no clue on what to do..."
-    ""
+    "我坐在被分配到的桌子这儿，正犹豫着接下来该做什么时..."
 
 # game/script.rpy:110
 translate Chinese date_c2629e1f:
 
     # "A young man approaches me."
-    ""
+    "一个年轻男人朝我走来。"
 
 # game/script.rpy:117
 translate Chinese date_75392c38:
@@ -179,25 +179,25 @@ translate Chinese date_b84d8184:
 translate Chinese date_801d2c2e:
 
     # "I have no time to even consider an answer that he’s sitting already."
-    ""
+    "我还没来得及回答，他就在我对面坐下了。"
 
 # game/script.rpy:122
 translate Chinese date_2b664db8:
 
     # "Why bother asking? Welp."
-    ""
+    "那还干嘛要问？真的是。"
 
 # game/script.rpy:127
 translate Chinese date_7bc028aa:
 
     # l "Yes, I’m alone."
-    l ""
+    l "对，我一个人。"
 
 # game/script.rpy:127
 translate Chinese date_9ea1ad2f:
 
     # l "I’m not an expert, but with speed-dating aren’t you supposed to follow an order?"
-    l ""
+    l "我不是很懂，在“闪电约会”活动中，不需要按照一定的顺序来约会吗？"
 
 # game/script.rpy:132
 translate Chinese date_c68a32f9:
@@ -233,19 +233,19 @@ translate Chinese date_1e3123ce:
 translate Chinese date_fab536c8:
 
     # "...then why are the tables numbered??"
-    ""
+    "那他们还给桌子编号？？"
 
 # game/script.rpy:143
 translate Chinese date_e899f249:
 
     # "I feel like this is going to give me a headache..."
-    ""
+    "感觉接下来会令人很头疼..."
 
 # game/script.rpy:143
 translate Chinese date_f9743a67:
 
     # "Whatever, let's just stick to the questions from the article."
-    ""
+    "算了，就先按照文章上写的来做吧。"
 
 # game/script.rpy:153
 translate Chinese michael_a15809a7:
@@ -269,19 +269,19 @@ translate Chinese michael_17f2b7df:
 translate Chinese michael_c00e8d74:
 
     # "Oh no, here we go again..."
-    ""
+    "不是吧，来这套？"
 
 # game/script.rpy:163
 translate Chinese michael_926a63e1:
 
     # l "I don’t think we met."
-    l ""
+    l "我们应该没见过。"
 
 # game/script.rpy:163
 translate Chinese michael_d2d9f872:
 
     # l "But I must have a common face, I’ve been told this many times."
-    l ""
+    l "但我长得比较大众脸，好多人都这么说。"
 
 # game/script.rpy:168
 translate Chinese michael_7320ded0:
@@ -299,13 +299,13 @@ translate Chinese michael_8f21ad47:
 translate Chinese michael_27a58008:
 
     # l "Ah I’m used to it, don't worry!"
-    l ""
+    l "没事，我习惯了。"
 
 # game/script.rpy:173
 translate Chinese michael_ce8d2a2d:
 
     # l "Anyway..."
-    l ""
+    l "所以说..."
 
 # game/script.rpy:180
 translate Chinese michael_4abe5329:
@@ -323,7 +323,7 @@ translate Chinese michael_f0700869:
 translate Chinese michael_52f55337:
 
     # l "I’m Lars, and, uh, same."
-    l ""
+    l "我叫拉尔斯，呃，我也是，很高兴认识你。"
 
 # game/script.rpy:188
 translate Chinese michael_2b307c22:
@@ -341,7 +341,7 @@ translate Chinese michael_400f444a:
 translate Chinese michael_a4b34b37:
 
     # l "Denmark."
-    l ""
+    l "丹麦。"
 
 # game/script.rpy:194
 translate Chinese michael_95d6fa71:
@@ -359,13 +359,13 @@ translate Chinese michael_e6baaf82:
 translate Chinese michael_00a77f46:
 
     # l "Oh, nothing in particular really…"
-    l ""
+    l "其实也没什么特别的事..."
 
 # game/script.rpy:199
 translate Chinese michael_7c7ba67f:
 
     # l "I guess it’s just how life goes."
-    l ""
+    l "自然而然就到这来了。"
 
 # game/script.rpy:209
 translate Chinese michael_06668fd7:
@@ -389,13 +389,13 @@ translate Chinese michael_be13714d:
 translate Chinese michael_2725f1aa:
 
     # l "Knit?"
-    l ""
+    l "织东西？"
 
 # game/script.rpy:216
 translate Chinese michael_dc681339:
 
     # l "That really is unusual, nowadays!"
-    l ""
+    l "那还真是很少见啊！尤其是现在这种时代。"
 
 # game/script.rpy:221
 translate Chinese michael_2a9e8499:
@@ -443,7 +443,7 @@ translate Chinese michael_56742567:
 translate Chinese michael_58d3445d:
 
     # l "Oh! That sounds like you’re very passionate about it."
-    l ""
+    l "看来你真的特别热爱编织。"
 
 # game/script.rpy:240
 translate Chinese michael_71bf5e3d:
@@ -467,7 +467,7 @@ translate Chinese michael_9d2bf73f:
 translate Chinese michael_2c377a29:
 
     # l "...ok."
-    l ""
+    l "...好吧"
 
 # game/script.rpy:251
 translate Chinese michael_d3107ef6:
@@ -497,7 +497,7 @@ translate Chinese michael_871ce650:
 translate Chinese michael_f02e5861:
 
     # l "Don't worry, I get it."
-    l ""
+    l "没事，我理解。"
 
 # game/script.rpy:261
 translate Chinese michael_1dbbfbd1:
@@ -521,7 +521,7 @@ translate Chinese michael_86f97423:
 translate Chinese michael_b3d110df:
 
     # l "I write novels."
-    l ""
+    l "写小说的。"
 
 # game/script.rpy:271
 translate Chinese michael_f0f6cd01:
@@ -557,13 +557,13 @@ translate Chinese michael_1c2958f7:
 translate Chinese michael_ab6214a9:
 
     # l "Oh, it’s ok."
-    l ""
+    l "没关系。"
 
 # game/script.rpy:282
 translate Chinese michael_d4caf7e1:
 
     # l "I'm not that famous anyway."
-    l ""
+    l "我也没有很出名。"
 
 # game/script.rpy:290
 translate Chinese mic_noans1_632afaab:
@@ -635,7 +635,7 @@ translate Chinese michael2_d5a93292:
 translate Chinese michael2_78a8022e:
 
     # l "Sure...I guess?"
-    l ""
+    l "也不是...不行？"
 
 # game/script.rpy:330
 translate Chinese michael2_47ba7d94:
@@ -665,25 +665,25 @@ translate Chinese michael2_0044afee:
 translate Chinese michael2_3c54f4dd:
 
     # l "Oh..."
-    l ""
+    l "噢..."
 
 # game/script.rpy:339
 translate Chinese michael2_b6c73a82:
 
     # l "Well..."
-    l ""
+    l "这样啊..."
 
 # game/script.rpy:339
 translate Chinese michael2_5b7925bd:
 
     # l "I guess I can understand that."
-    l ""
+    l "我大概能懂你的意思。"
 
 # game/script.rpy:339
 translate Chinese michael2_f39a9527:
 
     # l "...Maybe."
-    l ""
+    l "或许吧..."
 
 # game/script.rpy:351
 translate Chinese mic_noans2_b9ff1ecd:
@@ -797,13 +797,13 @@ translate Chinese michael3_7b833da1:
 translate Chinese michael3_ecfedcfa:
 
     # l "Yeah, I guess..."
-    l ""
+    l "或许是这样的吧..."
 
 # game/script.rpy:405
 translate Chinese michael3_85d5c65d:
 
     # l "Sometimes I just wish I had a different upbringing, you know?"
-    l ""
+    l "但有时我就是希望能拥有一段不一样的成长经历，你懂吧？"
 
 # game/script.rpy:410
 translate Chinese michael3_14193266:
@@ -821,13 +821,13 @@ translate Chinese michael3_dacb7df6:
 translate Chinese michael3_574482dd:
 
     # l "Oh, I see..."
-    l ""
+    l "噢，那我明白了..."
 
 # game/script.rpy:415
 translate Chinese michael3_6f4a40a4:
 
     # l "They must love you very much."
-    l ""
+    l "你的家人一定都很爱你。"
 
 # game/script.rpy:421
 translate Chinese michael3_63dd2cb0:
@@ -839,7 +839,7 @@ translate Chinese michael3_63dd2cb0:
 translate Chinese michael3_98c5a34d:
 
     # l "That’s… great."
-    l ""
+    l "那...可真棒啊。"
 
 # game/script.rpy:427
 translate Chinese michael3_5a367616:
@@ -869,7 +869,7 @@ translate Chinese michael3_4701a2dd:
 translate Chinese michael3_041461d6:
 
     # l "Boring?"
-    l ""
+    l "无聊？"
 
 # game/script.rpy:439
 translate Chinese michael3_8cb62253:
@@ -899,7 +899,7 @@ translate Chinese michael3_c00bb644:
 translate Chinese michael3_c93d2f71:
 
     # l "Uh… not really?"
-    l ""
+    l "也...不完全是这样？"
 
 # game/script.rpy:449
 translate Chinese michael3_d3107ef6:
@@ -917,7 +917,7 @@ translate Chinese michael3_c6a0c8bc:
 translate Chinese michael3_348730eb:
 
     # l "...I see."
-    l ""
+    l "...好吧"
 
 # game/script.rpy:455
 translate Chinese michael3_1dbbfbd1:
@@ -929,7 +929,7 @@ translate Chinese michael3_1dbbfbd1:
 translate Chinese michael3_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:461
 translate Chinese mic_noans3_3bda6387:
@@ -977,7 +977,7 @@ translate Chinese michael4_0b8ded3e:
 translate Chinese michael4_89d7ec0f:
 
     # l "Should I be… worried?"
-    l ""
+    l "会...很麻烦吗？"
 
 # game/script.rpy:485
 translate Chinese michael4_3245329f:
@@ -1013,61 +1013,61 @@ translate Chinese michael4_1056b3b2:
 translate Chinese michael4_f1230b1c:
 
     # l "So, I was at this event held by a friend of mine."
-    l ""
+    l "是这样的，我之前有一次去了我朋友举办的某个活动。"
 
 # game/script.rpy:505
 translate Chinese michael4_0f97e738:
 
     # l "It was a nice evening and the venue was full of people."
-    l ""
+    l "那天晚上人很多。"
 
 # game/script.rpy:505
 translate Chinese michael4_ee068645:
 
     # l "I was talking to some friends when a man approached me, out of the blue!"
-    l ""
+    l "我正和朋友聊着，一个男的突然朝着我走来！"
 
 # game/script.rpy:505
 translate Chinese michael4_0a80a283:
 
     # l "I turned around, and..."
-    l ""
+    l "我一转过身..."
 
 # game/script.rpy:505
 translate Chinese michael4_47b2632b:
 
     # l "Well, there he is!"
-    l ""
+    l "他就站我面前了！"
 
 # game/script.rpy:505
 translate Chinese michael4_e57fa54e:
 
     # l "Same face, similar clothes, but totally different attitude."
-    l ""
+    l "长得和我一模一样，穿着类似的衣服，但气质和我完全不同。"
 
 # game/script.rpy:505
 translate Chinese michael4_88b7939d:
 
     # l "He smiled at me and asked me if he could have my autograph."
-    l ""
+    l "他对我笑了笑，问我能不能给他签个名。"
 
 # game/script.rpy:505
 translate Chinese michael4_f65c7e51:
 
     # l "I was a little taken aback, so I just signed my name on his notebook without saying anything."
-    l ""
+    l "我有点吃惊，所以只是在他的笔记本上签了名字，什么都没说。"
 
 # game/script.rpy:505
 translate Chinese michael4_61a81473:
 
     # l "He smiled at me, said bye, and I never saw him again."
-    l ""
+    l "他又对我笑了笑，说了声再见，然后我就再也没见过他了。"
 
 # game/script.rpy:505
 translate Chinese michael4_d303bee1:
 
     # l "Such a bizarre experience!"
-    l ""
+    l "真的离奇！"
 
 # game/script.rpy:526
 translate Chinese michael4_f70d849e:
@@ -1079,7 +1079,7 @@ translate Chinese michael4_f70d849e:
 translate Chinese michael4_26501b51:
 
     # l "Right?"
-    l ""
+    l "是不是很不可思议？"
 
 # game/script.rpy:528
 translate Chinese michael4_a543ad45:
@@ -1091,7 +1091,7 @@ translate Chinese michael4_a543ad45:
 translate Chinese michael4_bc5c265b:
 
     # l "Yes."
-    l ""
+    l "是啊。"
 
 # game/script.rpy:530
 translate Chinese michael4_3a17aa18:
@@ -1103,7 +1103,7 @@ translate Chinese michael4_3a17aa18:
 translate Chinese michael4_a88732e1:
 
     # l "... it does seem so, doesn’t it?"
-    l ""
+    l "确实。"
 
 # game/script.rpy:532
 translate Chinese michael4_925d0a0e:
@@ -1115,7 +1115,7 @@ translate Chinese michael4_925d0a0e:
 translate Chinese michael4_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:538
 translate Chinese michael4_68a74032:
@@ -1139,19 +1139,19 @@ translate Chinese michael4_92fabb92:
 translate Chinese michael4_6b342fbf:
 
     # l "What?"
-    l ""
+    l "嗯？"
 
 # game/script.rpy:545
 translate Chinese michael4_6d984458:
 
     # l "Oh, it’s not like I was hurting her! I just went out like a light and snored on her shoulder."
-    l ""
+    l "噢，我并没有压到她哪里。只是醉得不省人事，睡死过去了，然后靠着她的肩膀打鼾。"
 
 # game/script.rpy:545
 translate Chinese michael4_1d1d89a8:
 
     # l "But, yeah, she wasn't so happy about it… She’s a pretty uptight woman."
-    l ""
+    l "不过，她确实对这事不太高兴...她的脾气不太好。"
 
 # game/script.rpy:552
 translate Chinese michael4_ef52f8ce:
@@ -1229,19 +1229,19 @@ translate Chinese michael5_67b901fe:
 translate Chinese michael5_08ff6efc:
 
     # l "Absolutely, yes!"
-    l ""
+    l "完全正确！"
 
 # game/script.rpy:597
 translate Chinese michael5_e20e124b:
 
     # l "It calms me."
-    l ""
+    l "夜晚能让我平静下来。"
 
 # game/script.rpy:597
 translate Chinese michael5_795d33b8:
 
     # l "And I can concentrate way better."
-    l ""
+    l "然后我就能更加集中精力。"
 
 # game/script.rpy:604
 translate Chinese michael5_2c5f7af5:
@@ -1271,7 +1271,7 @@ translate Chinese michael5_d2fde6ba:
 translate Chinese michael5_bb7991a6:
 
     # l "Exactly!"
-    l ""
+    l "没错！"
 
 # game/script.rpy:614
 translate Chinese michael5_2c740821:
@@ -1295,7 +1295,7 @@ translate Chinese michael5_d1231bd5:
 translate Chinese michael5_34e0aed9:
 
     # l "Aw, that’s… romantic?."
-    l ""
+    l "哇哦，你可真浪漫！"
 
 # game/script.rpy:622
 translate Chinese michael5_25df1cdc:
@@ -1331,7 +1331,7 @@ translate Chinese michael5_8e62db32:
 translate Chinese michael5_1c524eea:
 
     # l "Yep. Being responsible is terrible."
-    l ""
+    l "是啊，想要当一个负责任的人不容易。"
 
 # game/script.rpy:640
 translate Chinese mic_noans5_2716aa86:
@@ -1409,7 +1409,7 @@ translate Chinese michaelcount_94c8d6e9:
 translate Chinese michaelcount_c22f5f3a:
 
     # l "Is that a euphemism?"
-    l ""
+    l "你是在约我吗？"
 
 # game/script.rpy:677
 translate Chinese michaelcount_d3107ef6:
@@ -1469,7 +1469,7 @@ translate Chinese michaelcount_6d3b1f6b:
 translate Chinese michaelcount_5fbdf473:
 
     # l "Yeah...I get it."
-    l ""
+    l "好的，我懂了。"
 
 # game/script.rpy:702
 translate Chinese michaelcount_697beb79:
@@ -1487,7 +1487,7 @@ translate Chinese michaelcount_57eb43f1:
 translate Chinese michaelcount_d735d833:
 
     # "... I don’t know why, but I hope that won't happen."
-    ""
+    "...说实话我也不是很想看。"
 
 # game/script.rpy:712
 translate Chinese michaelending_252f3573:
@@ -1517,7 +1517,7 @@ translate Chinese michaelending_f5789b54:
 translate Chinese michaelending_68b17489:
 
     # l "Uh..."
-    l ""
+    l "呃..."
 
 # game/script.rpy:729
 translate Chinese michaelending_73055156:
@@ -1529,55 +1529,55 @@ translate Chinese michaelending_73055156:
 translate Chinese michaelending_8b258bb3:
 
     # l "Is that… human skin?!"
-    l ""
+    l "那是...人皮吗？！"
 
 # game/script.rpy:733
 translate Chinese michaelending_673d2ad9:
 
     # "Ok, deep breaths. Calm down."
-    ""
+    "吸气...呼气...保持冷静。"
 
 # game/script.rpy:738
 translate Chinese michaelending_cef668aa:
 
     # "Everything's fine."
-    ""
+    "没什么大不了的。"
 
 # game/script.rpy:741
 translate Chinese michaelending_31515ab6:
 
     # "There's no need to worry."
-    ""
+    "没有必要担心。"
 
 # game/script.rpy:744
 translate Chinese michaelending_7c44c9ae:
 
     # "Maybe the alcohol has gone to my head."
-    ""
+    "可能只是酒劲上来了。"
 
 # game/script.rpy:744
 translate Chinese michaelending_5a29ec2d:
 
     # "Everything's fi-"
-    ""
+    "没事的，没..."
 
 # game/script.rpy:751
 translate Chinese michaelending_548b54f2:
 
     # "A strangely abrupt ending..."
-    ""
+    "突如其来的结局..."
 
 # game/script.rpy:751
 translate Chinese michaelending_bb83ff1d:
 
     # "Weird."
-    ""
+    "很奇怪。"
 
 # game/script.rpy:751
 translate Chinese michaelending_b178c2f2:
 
     # "What do you say, have you enjoyed your date?"
-    ""
+    "怎么样，喜欢这个约会吗？"
 
 # game/script.rpy:769
 translate Chinese skylar_bfab167e:
@@ -6059,11 +6059,11 @@ translate Chinese strings:
 
     # game/script.rpy:86
     old "Yes"
-    new "Yes"
+    new "确定"
 
     # game/script.rpy:86
     old "No"
-    new "No"
+    new "算了"
 
     # game/script.rpy:178
     old "What's your name?"
@@ -6071,27 +6071,27 @@ translate Chinese strings:
 
     # game/script.rpy:206
     old "So, do you have any hobby?"
-    new "那，你有什么爱好吗？"
+    new "那，你有什么兴趣爱好吗？"
 
     # game/script.rpy:206
     old "Um, what do you do for a living?"
-    new "嗯，你是做什么工作的？"
+    new "嗯...你是做什么工作的？"
 
     # game/script.rpy:299
     old "What’s your favorite place in the whole world?"
-    new ""
+    new "全世界你最喜欢的地方是哪里？"
 
     # game/script.rpy:299
     old "I’m a dog lover. Do you have any pets?"
-    new ""
+    new "我很喜欢狗狗。你有养宠物吗？"
 
     # game/script.rpy:394
     old "We don't get along so well..."
-    new ""
+    new "我和家里人处得不是很好..."
 
     # game/script.rpy:394
     old "It's a normal, ordinary family."
-    new ""
+    new "就是一个很普通、很平凡的家庭。"
 
     # game/script.rpy:498
     old "Oh, yes! Once, a famous actor that looks like me asked me for an autograph..."
@@ -6099,23 +6099,23 @@ translate Chinese strings:
 
     # game/script.rpy:498
     old "Once I got so drunk, I fell asleep on my grandmother!"
-    new ""
+    new "有一次我喝得酩酊大醉，竟然在我奶奶的身上睡着了！"
 
     # game/script.rpy:586
     old "Night owl, definitely."
-    new ""
+    new "夜猫子，毫无疑问。"
 
     # game/script.rpy:586
     old "I always have to get up early to work..."
-    new ""
+    new "我得早起去上班..."
 
     # game/script.rpy:758
     old "Loved it!"
-    new ""
+    new "爱了爱了"
 
     # game/script.rpy:758
     old "Get me out of here!"
-    new ""
+    new "快放我出去！这里有坏蛋！"
 
     # game/script.rpy:842
     old "I like strong drinks, but I usually go for white wine."
