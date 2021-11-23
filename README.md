@@ -66,11 +66,17 @@ Reported online on or around 11 December
 	- 主人公有灵感来源 [Mads Mikkelsen](https://en.wikipedia.org/wiki/Mads_Mikkelsen)
 
 ## 中期会议（11.23 中午 12：30）
+- 分工
+	- 翻译范围：2个date 或者 全部，结束页面，快捷键说明
+	- SU-结束页面，继续完善screens
+	- 时间：周四编程课下课，周四个人PPT，周五
+	
+### 翻译问题
+- 每个date的结尾相同话语是否统一：统一
 - 是否区分不同角色的语气词，如何区分
 	- 要不要对不同的characters personalise一下表达风格，v.s. 全文统一（consistent + 方便省事，但可能有点僵？）
-- 省略号使用习惯 …… ... ......
-- Pull Request 与 Merge to Main 的形式与时间，Review 的形式与时间
-	- 按照 Date 提交
+- 省略号使用习惯：中文的“…”和“……”
+
 
 ## 项目文件分析
 - common.py old->new,内容原封不动，可以写个脚本
