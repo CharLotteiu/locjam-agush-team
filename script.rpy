@@ -6307,24 +6307,24 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "Art by\n\nGaia Papoila\nand\nLidia Santoemma"
-    new ""
+    new "美术\n\nGaia Papoila\n和\nLidia Santoemma"
 
     # script.rpy:3426
     old "UI by\n\nLidia Santoemma"
-    new ""
+    new "界面\n\nLidia Santoemma"
 
     # script.rpy:3426
     old "Writing, Programming and Directing by\n\nRinkaku"
-    new ""
+    new "编剧、代码、导演\n\nRinkaku"
 
     # script.rpy:3426
     old "Music from\n\nBensound.com"
-    new ""
+    new "音乐\n\nBensound.com"
 
     # script.rpy:3426
     old "Thank you for playing!"
-    new "Grazie per aver giocato!"
+    new "感谢游玩！Grazie per aver giocato!"
 
     # script.rpy:3426
     old "Thank you Mads."
-    new ""
+    new "Thank you Mads."
