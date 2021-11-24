@@ -66,11 +66,12 @@ Reported online on or around 11 December
 	- 主人公有灵感来源 [Mads Mikkelsen](https://en.wikipedia.org/wiki/Mads_Mikkelsen)
 
 ## 中期会议（11.23 中午 12：30）
-- 分工
-	- 翻译范围：2个date 或者 全部，结束页面，快捷键说明
-	- SU-结束页面，继续完善screens
-	- 时间：周四编程课下课，周四个人PPT，周五
-	
+### 项目进度
+	- 翻译范围：2个date + 结束页面 + 菜单页面 + （其他必要信息）
+	- 时间节点
+		- 周四编程课下课：线下润色文本
+		- 周五上午下课后/下午午饭后？：线下润色文本、其他提交文件
+
 ### 翻译问题
 - 每个date的结尾相同话语是否统一：统一
 - 是否区分不同角色的语气词，如何区分
@@ -88,7 +89,7 @@ Reported online on or around 11 December
 ### 菜单界面、游戏内选项、人物名称不显示
 game/gui.rpy 文件中第 58、61、64 行代码所用字体 primer.ttf 或 poetsenone.ttf 不支持中文，需替换为支持中文的字体。  
 
-```python 
+```python
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.（原为 primer.ttf）
@@ -98,7 +99,7 @@ define gui.text_font = "Deng.ttf"
 define gui.name_text_font = "Deng.ttf"
 
 ## The font used for out-of-game text.（原为 poetsenone.ttf）
-define gui.interface_text_font = "Deng.ttf" 
+define gui.interface_text_font = "Deng.ttf"
 ```
 字体选择待确认，可选字体链接：https://www.maoken.com/freefonts/12727.html
 

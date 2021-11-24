@@ -4,5 +4,4 @@ translate Chinese strings:
 
     # game/options.rpy:15
     old "Have I seen you somewhere before?"
-    new ""
-
+    new "我们见过吗？"
