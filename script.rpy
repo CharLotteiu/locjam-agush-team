@@ -1595,13 +1595,13 @@ translate Chinese skylar_9fd0ad68:
 translate Chinese skylar_a20cefa7:
 
     # "..."
-    "..."
+    "……"
 
 # game/script.rpy:769
 translate Chinese skylar_6d0d6152:
 
     # "Oh, here's someone!"
-    "噢，有人来了！"
+    "欸，有人来了！"
 
 # game/script.rpy:780
 translate Chinese skylar_bc537058:
@@ -1613,19 +1613,19 @@ translate Chinese skylar_bc537058:
 translate Chinese skylar_09f64a5c:
 
     # s "Can I sit here?"
-    s "我能坐在这吗？"
+    s "我能坐在这儿吗？"
 
 # game/script.rpy:785
 translate Chinese skylar_dade60db:
 
     # "Just..."
-    "但是..."
+    "嗯……"
 
 # game/script.rpy:785
 translate Chinese skylar_e10e0692:
 
     # "Why does everyone sit before asking?"
-    "为什么每个人都是先坐下在询问是否可以？"
+    "都坐下了再问，为什么每个人都这样？"
 
 # game/script.rpy:790
 translate Chinese skylar_5e43527f:
@@ -6067,7 +6067,7 @@ translate Chinese strings:
 
     # game/script.rpy:178
     old "What's your name?"
-    new "你叫什么名字？"
+    new "怎么称呼？"
 
     # game/script.rpy:206
     old "So, do you have any hobby?"
@@ -6307,7 +6307,7 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "Art by\n\nGaia Papoila\nand\nLidia Santoemma"
-    new "美术\n\nGaia Papoila\n和\nLidia Santoemma"
+    new "美术\n\nGaia Papoila\nLidia Santoemma"
 
     # script.rpy:3426
     old "UI by\n\nLidia Santoemma"
@@ -6315,7 +6315,7 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "Writing, Programming and Directing by\n\nRinkaku"
-    new "编剧、代码、导演\n\nRinkaku"
+    new "编剧 程序 导演\n\nRinkaku"
 
     # script.rpy:3426
     old "Music from\n\nBensound.com"
@@ -6323,8 +6323,8 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "Thank you for playing!"
-    new "感谢游玩！Grazie per aver giocato!"
+    new "感谢游玩！"
 
     # script.rpy:3426
     old "Thank you Mads."
-    new "Thank you Mads."
+    new "特别鸣谢\n\nMads Mikkelsen"
