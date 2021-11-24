@@ -1667,7 +1667,7 @@ translate Chinese skylar_3b484822:
 translate Chinese skylar_231acabd:
 
     # s "You look exactly like him!"
-    s "你长得和他一模一样！"
+    s "你简直和他长得一模一样！"
 
 # game/script.rpy:795
 translate Chinese skylar_cd395ea1:
@@ -1691,7 +1691,7 @@ translate Chinese skylar_3a1f2cfc:
 translate Chinese skylar_09766455:
 
     # l "And I don't know who you're talking about..."
-    l "也不知道你说的是谁..."
+    l "也不知道你说的是谁……"
 
 # game/script.rpy:808
 translate Chinese skylar_c2a53ec4:
@@ -1727,13 +1727,13 @@ translate Chinese skylar_7c2fbdb6:
 translate Chinese skylar_b6b43d0f:
 
     # s "You already said that."
-    s "你刚刚说过了。"
+    s "你刚刚已经打过招呼了。"
 
 # game/script.rpy:826
 translate Chinese skylar_5e84b26a:
 
     # s "But it's a pleasure for me too."
-    s "不过我也很高兴见到你。"
+    s "不过我也很高兴能认识你。"
 
 # game/script.rpy:831
 translate Chinese skylar_6181f6e4:
@@ -1751,7 +1751,7 @@ translate Chinese skylar_aaba495c:
 translate Chinese skylar_298c5fdd:
 
     # s "A vital question, my dear."
-    s "这是个很重要的问题，宝贝。"
+    s "这是个很重要的问题哦，宝贝。"
 
 # game/script.rpy:846
 translate Chinese skylar_33825122:
@@ -1775,7 +1775,7 @@ translate Chinese skylar_8c40c845:
 translate Chinese skylar_4df6e62e:
 
     # l "No, wait."
-    l "等等，我不是那个意思。"
+    l "呃，我不是那个意思。"
 
 # game/script.rpy:851
 translate Chinese skylar_5b1ec89c:
@@ -1787,7 +1787,7 @@ translate Chinese skylar_5b1ec89c:
 translate Chinese skylar_a977813f:
 
     # s "And shy, too..."
-    s "有点害羞也不错……"
+    s "容易害羞的也不错……"
 
 # game/script.rpy:858
 translate Chinese skylar_55f960a0:
@@ -1799,13 +1799,13 @@ translate Chinese skylar_55f960a0:
 translate Chinese skylar_3073b6b8:
 
     # "What did she say...?"
-    "她说什么?"
+    "她在说什么?"
 
 # game/script.rpy:864
 translate Chinese skylar_1bd9d035:
 
     # l "T-thanks..."
-    l "谢……谢谢"
+    l "谢……谢谢夸奖。"
 
 # game/script.rpy:868
 translate Chinese skylar_861215c7:
@@ -6119,11 +6119,11 @@ translate Chinese strings:
 
     # game/script.rpy:842
     old "I like strong drinks, but I usually go for white wine."
-    new "我爱喝度数高的，但大多数时候会点白葡萄酒。"
+    new "烈酒吧，不过大多时候我会点些白葡萄酒。"
 
     # game/script.rpy:842
     old "I could drink Bloody Mary all night long."
-    new "我可以整晚整晚地喝血腥玛丽。"
+    new "血腥玛丽，我可以喝一整晚。"
 
     # game/script.rpy:897
     old "Have you read any good books lately?"
@@ -6131,15 +6131,15 @@ translate Chinese strings:
 
     # game/script.rpy:897
     old "Hm… if you could choose a superpower what would it be?"
-    new "嗯...如果可以选择一个超能力，你会选什么？"
+    new "嗯…如果可以拥有一个超能力，你会选什么？"
 
     # game/script.rpy:991
     old "Mostly biographies… must seem boring, right?"
-    new "主要是传记...听起来很无聊，是吧？"
+    new "主要是传记…听起来很无聊，是吧？"
 
     # game/script.rpy:991
     old "Fantasy, horror… whatever I feel like!"
-    new "奇幻、恐怖...各种类型，随我喜欢!"
+    new "奇幻、恐怖……各种类型，随我喜欢!"
 
     # game/script.rpy:1074
     old "Yes, it's a good pay, and I inherited a fair amount."
