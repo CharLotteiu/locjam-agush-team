@@ -737,7 +737,7 @@ translate Chinese michael3_257d68fd:
 translate Chinese michael3_6f189439:
 
     # m "I’ve always had a challenging relationship with both of my parents."
-    m "我跟我爸妈俩人的关系一直都有点棘手。"
+    m "虽然我跟我爸妈的关系一直都有点棘手。"
 
 # game/script.rpy:369
 translate Chinese michael3_4ff2c645:
@@ -761,7 +761,7 @@ translate Chinese michael3_9c687e15:
 translate Chinese michael3_ba860038:
 
     # m "No matter what you do."
-    m "不管你做什么。"
+    m "不管发生了什么。"
 
 # game/script.rpy:369
 translate Chinese michael3_252f3573:
@@ -785,13 +785,13 @@ translate Chinese michael3_e09ac9d6:
 translate Chinese michael3_3e385561:
 
     # m "But difficult families often build stronger characters."
-    m "不过家庭背景复杂的人，往往性格也强点儿。"
+    m "不过家庭情况复杂的人，往往个性也强点儿。"
 
 # game/script.rpy:398
 translate Chinese michael3_7b833da1:
 
     # m "So I’m sure it's not all bad."
-    m "这么说来也不全都是坏事。"
+    m "这么说来也不全都是坏事儿。"
 
 # game/script.rpy:405
 translate Chinese michael3_ecfedcfa:
@@ -809,13 +809,13 @@ translate Chinese michael3_85d5c65d:
 translate Chinese michael3_14193266:
 
     # m "No I don’t."
-    m "不，我就不这么想。"
+    m "我没这么想过。"
 
 # game/script.rpy:410
 translate Chinese michael3_dacb7df6:
 
     # m "I hold my family very close to my heart!"
-    m "我都把我家里人放在心尖上。"
+    m "我觉得我家里人都挺好的。"
 
 # game/script.rpy:415
 translate Chinese michael3_574482dd:
@@ -827,13 +827,13 @@ translate Chinese michael3_574482dd:
 translate Chinese michael3_6f4a40a4:
 
     # l "They must love you very much."
-    l "你的家人一定都很爱你。"
+    l "他们一定都很爱你。"
 
 # game/script.rpy:421
 translate Chinese michael3_63dd2cb0:
 
     # m "Oh they do. They care for me just as much as I care for them."
-    m "哦，是的。我们很关心彼此。"
+    m "是啊，我们很关心彼此。"
 
 # game/script.rpy:422
 translate Chinese michael3_98c5a34d:
@@ -851,7 +851,7 @@ translate Chinese michael3_5a367616:
 translate Chinese michael3_f3018fde:
 
     # m "It's nice, but I imagine it could be..."
-    m "挺好的，不过在我想象中它可能有些……"
+    m "也挺好，不过我猜它可能有些……"
 
 # game/script.rpy:427
 translate Chinese michael3_c3450e65:
@@ -881,7 +881,7 @@ translate Chinese michael3_8cb62253:
 translate Chinese michael3_f2337d5d:
 
     # m "All is normal, ordinary."
-    m "啥事儿都正常而普通。"
+    m "普普通通，平平淡淡。"
 
 # game/script.rpy:439
 translate Chinese michael3_4892d621:
