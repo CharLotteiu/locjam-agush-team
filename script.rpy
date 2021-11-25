@@ -2,7 +2,7 @@
 
 translate Chinese strings:
     old "Lars"
-    new "拉尔斯"
+    new "麦尔斯"
 
     old "Michael"
     new "迈克尔"
@@ -323,7 +323,7 @@ translate Chinese michael_f0700869:
 translate Chinese michael_52f55337:
 
     # l "I’m Lars, and, uh, same."
-    l "我叫拉尔斯，呃，我也是，幸会，幸会。"
+    l "我叫麦尔斯，呃，我也是，幸会，幸会。"
 
 # game/script.rpy:188
 translate Chinese michael_2b307c22:
@@ -989,7 +989,7 @@ translate Chinese michael4_3245329f:
 translate Chinese michael4_8d299a57:
 
     # m "It's quite normal."
-    m "就是一点小事。"
+    m "就是一点儿小事。"
 
 # game/script.rpy:485
 translate Chinese michael4_6a3cc1e4:
@@ -1013,7 +1013,7 @@ translate Chinese michael4_1056b3b2:
 translate Chinese michael4_f1230b1c:
 
     # l "So, I was at this event held by a friend of mine."
-    l "是这样的，我之前有一次去了我朋友举办的某个活动。"
+    l "是这样的，有一次我去了我朋友举办的某个活动。"
 
 # game/script.rpy:505
 translate Chinese michael4_0f97e738:
@@ -1055,7 +1055,7 @@ translate Chinese michael4_88b7939d:
 translate Chinese michael4_f65c7e51:
 
     # l "I was a little taken aback, so I just signed my name on his notebook without saying anything."
-    l "我有点吃惊，所以只是给他签了名，什么也没说。"
+    l "我有点吃惊，所以只是签了个名，什么也没问。"
 
 # game/script.rpy:505
 translate Chinese michael4_61a81473:
@@ -1067,7 +1067,7 @@ translate Chinese michael4_61a81473:
 translate Chinese michael4_d303bee1:
 
     # l "Such a bizarre experience!"
-    l "真的离奇！"
+    l "离奇吧！"
 
 # game/script.rpy:526
 translate Chinese michael4_f70d849e:
@@ -1079,7 +1079,7 @@ translate Chinese michael4_f70d849e:
 translate Chinese michael4_26501b51:
 
     # l "Right?"
-    l "很不可思议对吧？"
+    l "很不可思议，对吧？"
 
 # game/script.rpy:528
 translate Chinese michael4_a543ad45:
@@ -1109,7 +1109,7 @@ translate Chinese michael4_a88732e1:
 translate Chinese michael4_925d0a0e:
 
     # m "You're really something."
-    m "你可真了不起。"
+    m "真了不起。"
 
 # game/script.rpy:533
 translate Chinese michael4_82822a0c:
@@ -1199,7 +1199,7 @@ translate Chinese michael5_911d8fa3:
 translate Chinese michael5_32ba5add:
 
     # m "So…"
-    m "那么……"
+    m "那……"
 
 # game/script.rpy:573
 translate Chinese michael5_c941b37a:
@@ -1253,7 +1253,7 @@ translate Chinese michael5_2c5f7af5:
 translate Chinese michael5_f38a8382:
 
     # m "It's not that I dislike sunlight, but..."
-    m "我也不是不喜欢阳光，只是……"
+    m "我也不是不喜欢白天，只是……"
 
 # game/script.rpy:604
 translate Chinese michael5_6c610fe6:
@@ -1361,7 +1361,7 @@ translate Chinese mic_noans5_643d6239:
 translate Chinese michaelcount_c1c307e0:
 
     # m "Well, Lars..."
-    m "好吧，拉尔斯……"
+    m "好吧，麦尔斯……"
 
 # game/script.rpy:659
 translate Chinese michaelcount_bb1fea5a:
@@ -1403,7 +1403,7 @@ translate Chinese michaelcount_289418c4:
 translate Chinese michaelcount_94c8d6e9:
 
     # m "I don't know, take a look at my knitting skills?"
-    m "看看我织东西的技术？"
+    m "看看我织东西的手艺？"
 
 # game/script.rpy:676
 translate Chinese michaelcount_c22f5f3a:
@@ -1427,7 +1427,7 @@ translate Chinese michaelcount_b8aea200:
 translate Chinese michaelcount_bc20b2cd:
 
     # m "Listen, Lars..."
-    m "听我说，拉尔斯……"
+    m "听我说，麦尔斯……"
 
 # game/script.rpy:686
 translate Chinese michaelcount_b36fd1d9:
@@ -1451,7 +1451,7 @@ translate Chinese michaelcount_2140530f:
 translate Chinese michaelcount_9d49c7bc:
 
     # m "Other times, not so much."
-    m "其他时候，差点意思。"
+    m "其他时候，差点儿意思。"
 
 # game/script.rpy:686
 translate Chinese michaelcount_6f457da1:
@@ -1481,7 +1481,7 @@ translate Chinese michaelcount_697beb79:
 translate Chinese michaelcount_57eb43f1:
 
     # m "Maybe I'll show you my knitting skills another time..."
-    m "下次有机会再给你展示一下我织东西的技术。"
+    m "哪天有机会再给你展示一下我织东西的手艺。"
 
 # game/script.rpy:707
 translate Chinese michaelcount_d735d833:
@@ -1637,13 +1637,13 @@ translate Chinese skylar_5e43527f:
 translate Chinese skylar_1fd4cfee:
 
     # l "I'm Lars, nice to meet you!"
-    l "我叫拉尔斯，幸会！"
+    l "我叫麦尔斯，幸会！"
 
 # game/script.rpy:795
 translate Chinese skylar_6374d2b3:
 
     # s "Lars..."
-    s "拉尔斯……"
+    s "麦尔斯……"
 
 # game/script.rpy:795
 translate Chinese skylar_2bb96ada:
@@ -2519,7 +2519,7 @@ translate Chinese sky_noans5_ea786c2d:
 translate Chinese skylarcount_50c52fb8:
 
     # s "You know, Lars, I was thinking..."
-    s "拉尔斯，我在想……"
+    s "麦尔斯，我在想……"
 
 # game/script.rpy:1201
 translate Chinese skylarcount_62d62cae:
