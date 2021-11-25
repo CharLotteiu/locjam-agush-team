@@ -785,13 +785,13 @@ translate Chinese michael3_e09ac9d6:
 translate Chinese michael3_3e385561:
 
     # m "But difficult families often build stronger characters."
-    m "不过家庭背景复杂的人，往往性格也强点儿。"
+    m "不过家庭情况复杂的人，往往个性也强点儿。"
 
 # game/script.rpy:398
 translate Chinese michael3_7b833da1:
 
     # m "So I’m sure it's not all bad."
-    m "这么说来也不全都是坏事。"
+    m "这么说来也不全都是坏事儿。"
 
 # game/script.rpy:405
 translate Chinese michael3_ecfedcfa:
@@ -809,13 +809,13 @@ translate Chinese michael3_85d5c65d:
 translate Chinese michael3_14193266:
 
     # m "No I don’t."
-    m "不，我就不这么想。"
+    m "我没这么想过。"
 
 # game/script.rpy:410
 translate Chinese michael3_dacb7df6:
 
     # m "I hold my family very close to my heart!"
-    m "我都把我家里人放在心尖上。"
+    m "我觉得我家里人都挺好的。"
 
 # game/script.rpy:415
 translate Chinese michael3_574482dd:
@@ -827,13 +827,13 @@ translate Chinese michael3_574482dd:
 translate Chinese michael3_6f4a40a4:
 
     # l "They must love you very much."
-    l "你的家人一定都很爱你。"
+    l "他们一定都很爱你。"
 
 # game/script.rpy:421
 translate Chinese michael3_63dd2cb0:
 
     # m "Oh they do. They care for me just as much as I care for them."
-    m "哦，是的。我们很关心彼此。"
+    m "是啊，我们很关心彼此。"
 
 # game/script.rpy:422
 translate Chinese michael3_98c5a34d:
@@ -851,7 +851,7 @@ translate Chinese michael3_5a367616:
 translate Chinese michael3_f3018fde:
 
     # m "It's nice, but I imagine it could be..."
-    m "挺好的，不过在我想象中它可能有些……"
+    m "也挺好，不过我猜它可能有些……"
 
 # game/script.rpy:427
 translate Chinese michael3_c3450e65:
@@ -881,7 +881,7 @@ translate Chinese michael3_8cb62253:
 translate Chinese michael3_f2337d5d:
 
     # m "All is normal, ordinary."
-    m "啥事儿都正常而普通。"
+    m "普普通通，平平淡淡。"
 
 # game/script.rpy:439
 translate Chinese michael3_4892d621:
@@ -1481,7 +1481,7 @@ translate Chinese michaelcount_697beb79:
 translate Chinese michaelcount_57eb43f1:
 
     # m "Maybe I'll show you my knitting skills another time..."
-    m "下次有机会再给你展示一下我织东西的技术。"
+    m "哪天有机会再给你展示一下我织东西的手艺。"
 
 # game/script.rpy:707
 translate Chinese michaelcount_d735d833:
@@ -5825,25 +5825,25 @@ translate Chinese totallyalone_a20cefa7:
 translate Chinese totallyalone_63ff71bc:
 
     # "What a horrible night."
-    ""
+    "夜太美"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_979aeb4c:
 
     # "Walking in the rain was a bad idea."
-    ""
+    "下雨天出来逛，一点也不明智。"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_23efc147:
 
     # "Not getting into that bar was even worse."
-    ""
+    "没进那家酒吧更是蠢透了。"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_a7d4da87:
 
     # "And, as if all of this isn't enough, I've also lost my hat somewhere."
-    ""
+    "而且，不知道招谁惹谁了，我的帽子还丢了... "
 
 # game/script.rpy:2837
 translate Chinese totallyalone_63ff71bc_1:
@@ -5855,13 +5855,13 @@ translate Chinese totallyalone_63ff71bc_1:
 translate Chinese totallyalone_0c0278ae:
 
     # "Life really is unfair, sometimes."
-    ""
+    "有时候，生活真的很不如意。"
 
 # game/script.rpy:2857
 translate Chinese sadending_a20cefa7:
 
     # "..."
-    ""
+    "......"
 
 # game/script.rpy:2857
 translate Chinese sadending_63ff71bc:
@@ -5873,25 +5873,25 @@ translate Chinese sadending_63ff71bc:
 translate Chinese sadending_979aeb4c:
 
     # "Walking in the rain was a bad idea."
-    ""
+    "下雨天在外面逛，一点也不明智。"
 
 # game/script.rpy:2857
 translate Chinese sadending_3f298552:
 
     # "Getting into that bar was even worse."
-    ""
+    "进那家酒吧更是蠢透了。"
 
 # game/script.rpy:2857
 translate Chinese sadending_c505dac7:
 
     # "What a waste of time."
-    ""
+    "全是浪费时间。"
 
 # game/script.rpy:2857
 translate Chinese sadending_ef73ce41:
 
     # "I'm tired of love."
-    ""
+    "累了， 再也不会爱了。"
 
 # game/script.rpy:2857
 translate Chinese sadending_a7d4da87:
