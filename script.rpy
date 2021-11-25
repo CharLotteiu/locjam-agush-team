@@ -1589,7 +1589,7 @@ translate Chinese skylar_bfab167e:
 translate Chinese skylar_9fd0ad68:
 
     # "On my own once more."
-    "又是我一个人坐在这儿。"
+    "又是我一个人了。"
 
 # game/script.rpy:769
 translate Chinese skylar_a20cefa7:
@@ -1625,7 +1625,7 @@ translate Chinese skylar_dade60db:
 translate Chinese skylar_e10e0692:
 
     # "Why does everyone sit before asking?"
-    "都坐下了再问，为什么每个人都这样？"
+    "都坐下了才问，为什么每个人都这样？"
 
 # game/script.rpy:790
 translate Chinese skylar_5e43527f:
@@ -1883,7 +1883,7 @@ translate Chinese skylar2_dab7acff:
 translate Chinese skylar2_f5c985c5:
 
     # s "You should definitely dive into chinese literature, if you haven’t."
-    s "如果你不了解中国文学的话，一定要去研究一下。"
+    s "如果你不了解中国文学的话，一定要去看看。"
 
 # game/script.rpy:901
 translate Chinese skylar2_6db6cbda:
@@ -1919,7 +1919,7 @@ translate Chinese skylar2_ca9fa94a:
 translate Chinese skylar2_dfd94542:
 
     # l "I work with books too, I'm a novelist."
-    l "我的工作也和书有关，我是写小说的。"
+    l "我是写小说的，也和书打交道。"
 
 # game/script.rpy:919
 translate Chinese skylar2_f943ab19:
@@ -2207,7 +2207,7 @@ translate Chinese skylar3_d91c838c:
 translate Chinese skylar3_dbb2cd92:
 
     # s "I know, I know, don't worry."
-    s "我懂了，我懂了，别担心。"
+    s "我懂，我懂，不用担心。"
 
 # game/script.rpy:1037
 translate Chinese skylar3_a9b0649b:
@@ -2249,7 +2249,7 @@ translate Chinese sky_noans3_91ec7011:
 translate Chinese sky_noans3_45b2235e:
 
     # s "There's no need for me to be here, if you won’t even talk."
-    s "你要是连话都不说，我待在这儿干嘛。"
+    s "你要是不想聊，我就走了。"
 
 # game/script.rpy:1054
 translate Chinese sky_noans3_ea786c2d:
@@ -2357,7 +2357,7 @@ translate Chinese sky_noans4_91ec7011:
 translate Chinese sky_noans4_45b2235e:
 
     # s "There's no need for me to be here, if you won’t even talk."
-    s "你要是连话都不说，我待在这儿干嘛。"
+    s "你要是不想聊，我就走了。"
 
 # game/script.rpy:1112
 translate Chinese sky_noans4_ea786c2d:
@@ -2507,7 +2507,7 @@ translate Chinese sky_noans5_175108b1:
 translate Chinese sky_noans5_50c2c533:
 
     # s "There's no need for me to be here, if you won’t talk."
-    s "你要是不说话的话我就走了。"
+    s "你要是不想聊，我就走了。"
 
 # game/script.rpy:1183
 translate Chinese sky_noans5_ea786c2d:
@@ -6135,7 +6135,7 @@ translate Chinese strings:
 
     # game/script.rpy:991
     old "Mostly biographies… must seem boring, right?"
-    new "主要是传记……听起来很无聊，是吧？"
+    new "主要是传记……听起来很无聊吧？"
 
     # game/script.rpy:991
     old "Fantasy, horror… whatever I feel like!"
