@@ -6159,11 +6159,11 @@ translate Chinese strings:
 
     # game/script.rpy:1302
     old "Money = Independency"
-    new "金钱 = 独立"
+    new "没错，金钱 = 独立"
 
     # game/script.rpy:1302
     old "Maybe I could give someone else a try..."
-    new "或许我可以再等等其他人..."
+    new "或许我可以再和别人聊聊..."
 
     # game/script.rpy:1355
     old "I'm a libra! And you?"
