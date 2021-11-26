@@ -1895,13 +1895,13 @@ translate Chinese skylar2_6db6cbda:
 translate Chinese skylar2_fe255416:
 
     # s "As the manager of a renowned publishing house, reading is essential."
-    s "怎么说呢，作为出版社的经理，读书对我来说是每日必修课。"
+    s "作为一家大出版社的经理呢，读书就是我的日常。"
 
 # game/script.rpy:901
 translate Chinese skylar2_e23a697b:
 
     # s "And chinese literature is where the future of literature is!"
-    s "而在我看来，中国文学就是文学的未来！"
+    s "而在我看来，文学的未来还得看中国！"
 
 # game/script.rpy:901
 translate Chinese skylar2_73c5b5dd:
@@ -5819,13 +5819,13 @@ translate Chinese johnnyending_b178c2f2:
 translate Chinese totallyalone_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_63ff71bc:
 
     # "What a horrible night."
-    "夜太美"
+    "我就知道……"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_979aeb4c:
@@ -5837,19 +5837,19 @@ translate Chinese totallyalone_979aeb4c:
 translate Chinese totallyalone_23efc147:
 
     # "Not getting into that bar was even worse."
-    "没进那家酒吧更是蠢透了。"
+    "早知道就该去那家酒吧看看。"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_a7d4da87:
 
     # "And, as if all of this isn't enough, I've also lost my hat somewhere."
-    "而且，不知道招谁惹谁了，我的帽子还丢了... "
+    "而且，不知道招谁惹谁了，我的帽子还丢了……"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_63ff71bc_1:
 
     # "What a horrible night."
-    ""
+    "真倒霉。"
 
 # game/script.rpy:2837
 translate Chinese totallyalone_0c0278ae:
@@ -5861,13 +5861,13 @@ translate Chinese totallyalone_0c0278ae:
 translate Chinese sadending_a20cefa7:
 
     # "..."
-    "......"
+    "……"
 
 # game/script.rpy:2857
 translate Chinese sadending_63ff71bc:
 
     # "What a horrible night."
-    ""
+    "我就知道……"
 
 # game/script.rpy:2857
 translate Chinese sadending_979aeb4c:
@@ -5879,19 +5879,19 @@ translate Chinese sadending_979aeb4c:
 translate Chinese sadending_3f298552:
 
     # "Getting into that bar was even worse."
-    "进那家酒吧更是蠢透了。"
+    "早知道就不该进那家酒吧。"
 
 # game/script.rpy:2857
 translate Chinese sadending_c505dac7:
 
     # "What a waste of time."
-    "全是浪费时间。"
+    "真是浪费时间。"
 
 # game/script.rpy:2857
 translate Chinese sadending_ef73ce41:
 
     # "I'm tired of love."
-    "累了， 再也不会爱了。"
+    "累了，再也不会爱了。"
 
 # game/script.rpy:2857
 translate Chinese sadending_a7d4da87:
@@ -6311,11 +6311,11 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "UI by\n\nLidia Santoemma"
-    new "界面\n\nLidia Santoemma"
+    new "界面设计\n\nLidia Santoemma"
 
     # script.rpy:3426
     old "Writing, Programming and Directing by\n\nRinkaku"
-    new "编剧 程序 导演\n\nRinkaku"
+    new "导演 编剧 开发\n\nRinkaku"
 
     # script.rpy:3426
     old "Music from\n\nBensound.com"
@@ -6323,7 +6323,7 @@ translate Chinese strings:
 
     # script.rpy:3426
     old "Thank you for playing!"
-    new "感谢游玩！"
+    new "“天堂酒吧”，欢迎下次光临！"
 
     # script.rpy:3426
     old "Thank you Mads."
