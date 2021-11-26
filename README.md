@@ -66,11 +66,20 @@ Reported online on or around 11 December
 	- 主人公有灵感来源 [Mads Mikkelsen](https://en.wikipedia.org/wiki/Mads_Mikkelsen)
 
 ## 中期会议（11.23 中午 12：30）
+### 项目进度
+	- 翻译范围：2个date + 结束页面 + 菜单页面 + （其他必要信息）
+	- 时间节点
+		- 周四编程课下课：线下润色文本
+		- 周五2-4图书馆
+		- 周五6:30-7:00 yijie 线下润色文本、其他提交文件
+		
+
+### 翻译问题
+- 每个date的结尾相同话语是否统一：统一
 - 是否区分不同角色的语气词，如何区分
 	- 要不要对不同的characters personalise一下表达风格，v.s. 全文统一（consistent + 方便省事，但可能有点僵？）
-- 省略号使用习惯 …… ... ......
-- Pull Request 与 Merge to Main 的形式与时间，Review 的形式与时间
-	- 按照 Date 提交
+- 省略号使用习惯：中文的“…”和“……”
+
 
 ## 项目文件分析
 - common.py old->new,内容原封不动，可以写个脚本
@@ -82,7 +91,7 @@ Reported online on or around 11 December
 ### 菜单界面、游戏内选项、人物名称不显示
 game/gui.rpy 文件中第 58、61、64 行代码所用字体 primer.ttf 或 poetsenone.ttf 不支持中文，需替换为支持中文的字体。  
 
-```python 
+```python
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.（原为 primer.ttf）
@@ -92,7 +101,7 @@ define gui.text_font = "Deng.ttf"
 define gui.name_text_font = "Deng.ttf"
 
 ## The font used for out-of-game text.（原为 poetsenone.ttf）
-define gui.interface_text_font = "Deng.ttf" 
+define gui.interface_text_font = "Deng.ttf"
 ```
 字体选择待确认，可选字体链接：https://www.maoken.com/freefonts/12727.html
 

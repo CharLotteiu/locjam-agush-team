@@ -4,7 +4,7 @@ translate Chinese strings:
 
     # game/screens.rpy:263
     old "Back"
-    new "返回？"
+    new "后退"
 
     # game/screens.rpy:264
     old "History"
@@ -20,7 +20,7 @@ translate Chinese strings:
 
     # game/screens.rpy:267
     old "Save"
-    new "存档"
+    new "保存进度"
 
     # game/screens.rpy:268
     old "Q.Save"
@@ -52,7 +52,7 @@ translate Chinese strings:
 
     # game/screens.rpy:329
     old "Main Menu"
-    new "主菜单"
+    new "返回菜单"
 
     # game/screens.rpy:342
     old "Quit"
@@ -60,7 +60,7 @@ translate Chinese strings:
 
     # game/screens.rpy:508
     old "Return"
-    new "返回"
+    new "返回游戏"
 
     # game/screens.rpy:585
     old "About"
@@ -72,7 +72,7 @@ translate Chinese strings:
 
     # game/screens.rpy:598
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new " {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n[renpy.license!t]"
+    new " {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作 \n\n[renpy.license!t]"
 
     # game/screens.rpy:634
     old "Save Slots"
@@ -92,7 +92,7 @@ translate Chinese strings:
 
     # game/screens.rpy:676
     old "empty slot"
-    new "empty slot清空？"
+    new "空档"
 
     # game/screens.rpy:748
     old "Display"
