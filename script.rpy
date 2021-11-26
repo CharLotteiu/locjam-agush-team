@@ -2105,7 +2105,7 @@ translate Chinese skylar3_b3946740:
 translate Chinese skylar3_049d1d31:
 
     # l "R-really?"
-    l "真、真的吗……"
+    l "真的……？"
 
 # game/script.rpy:1003
 translate Chinese skylar3_0c1ed8e5:
