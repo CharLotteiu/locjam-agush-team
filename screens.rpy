@@ -20,7 +20,7 @@ translate Chinese strings:
 
     # game/screens.rpy:267
     old "Save"
-    new "存档"
+    new "保存进度"
 
     # game/screens.rpy:268
     old "Q.Save"
@@ -52,7 +52,7 @@ translate Chinese strings:
 
     # game/screens.rpy:329
     old "Main Menu"
-    new "主菜单"
+    new "返回菜单"
 
     # game/screens.rpy:342
     old "Quit"
@@ -60,7 +60,7 @@ translate Chinese strings:
 
     # game/screens.rpy:508
     old "Return"
-    new "返回"
+    new "返回游戏"
 
     # game/screens.rpy:585
     old "About"
