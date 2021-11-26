@@ -2609,7 +2609,7 @@ translate Chinese skylarending_32a89a77:
 translate Chinese skylarending_36c85fd9:
 
     # s "Look here, look at the numbers!"
-    s "看看，看看这些数字！"
+    s "看看，看看这串零！"
 
 # game/script.rpy:1249
 translate Chinese skylarending_7cede5bb:
@@ -2633,13 +2633,13 @@ translate Chinese skylarending_48d731ee:
 translate Chinese skylarending_b1f13d3b:
 
     # s "Can your brain even conceive all of them?"
-    s "你能想到这么多钱吗？"
+    s "你这辈子见过这么多钱吗？"
 
 # game/script.rpy:1261
 translate Chinese skylarending_8d323cd0:
 
     # s "It can't, right?!"
-    s "不能吧？"
+    s "没有吧？"
 
 # game/script.rpy:1264
 translate Chinese skylarending_ab726b50:
@@ -2669,7 +2669,7 @@ translate Chinese skylarending_620b4c05:
 translate Chinese skylarending_9d1c9ed1:
 
     # s "And the more I have, the more I'm free to do what I want!"
-    s "越是有钱，我就越觉得自由！"
+    s "越有钱，我就越自由！"
 
 # game/script.rpy:1279
 translate Chinese skylarending_8b71a61e:
@@ -2681,7 +2681,7 @@ translate Chinese skylarending_8b71a61e:
 translate Chinese skylarending_942ccb9d:
 
     # s "And that's why I like capitalism!"
-    s "这就是我这么喜欢钞票的原因！"
+    s "这就是为什么我这么喜欢钞票！"
 
 # game/script.rpy:1285
 translate Chinese skylarending_c474397d:
@@ -2699,7 +2699,7 @@ translate Chinese skylarending_d30242e5:
 translate Chinese skylarending_e904f4f1:
 
     # "...everything's fine."
-    "……一切安好，我想"
+    "……随她去吧。"
 
 # game/script.rpy:1295
 translate Chinese skylarending_548b54f2:
